@@ -1,0 +1,68 @@
+development: &development
+  adapter: mysql2
+  encoding: utf8
+  database: database-nam
+  host: <%= ENV['RAILS_DB_HOST'] || 'localhost' %>
+  username: <%= ENV['RAILS_DB_USER'] || 'root' %>
+  password: <%= ENV['RAILS_DB_PASSWORD'] || 'rootpasswd' %>
+
+test: &test
+  adapter: mysql2
+  encoding: utf8
+  database: database-name
+  host: <%= ENV['RAILS_DB_HOST'] || 'localhost' %>
+  username: <%= ENV['RAILS_DB_USER'] || 'root' %>
+  password: <%= ENV['RAILS_DB_PASSWORD'] || 'rootpasswd' %>
+
+staging: &staging
+  adapter: mysql2
+  encoding: utf8
+  database: database-name
+  host: stg-database-name
+  username: user-name
+  password: password
+
+production: &production
+  adapter: mysql2
+  encoding: utf8
+  database: database-nam
+  host: mysql01.prd.database-name
+  username: user-name
+  password: password
+
+slave_development:
+  adapter: mysql2
+  encoding: utf8
+  database: database-nam
+  host: database-name
+  username: user-name
+  password: password
+
+slave_test:
+  adapter: mysql2
+  encoding: utf8
+  database: database-nam
+  host: database-name
+  username: user-name
+  password: password
+
+slave_production:
+  adapter: mysql2
+  encoding: utf8
+  database: database-nam
+  host: mysql-slave.prd.database-name
+  username: user-name
+  password: password
+
+
+geo_development:
+  <<: *development
+  database: database-name
+
+geo_staging:
+  <<: *staging
+  database: database-name
+
+geo_production:
+  <<: *production
+  database: database-name
