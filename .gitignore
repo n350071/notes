@@ -4,6 +4,9 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
+# delete .DS_Store by .gitignore
+# find . -name .DS_Store -print0 | xargs -0 git rm --ignore-unmatch
+
 # Ignore bundler config.
 /.bundle
 # Ignore vendor/bundle/ for incase
