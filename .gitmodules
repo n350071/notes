@@ -1,0 +1,3 @@
+[submodule "Management/ProjectPatterns"]
+	path = Management/ProjectPatterns
+	url = git@github.com:nao0515ki/project_patterns.git
