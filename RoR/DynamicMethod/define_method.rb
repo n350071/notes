@@ -7,3 +7,21 @@
     do_something
   end
 end
+
+# also, you can do this.
+class Mode
+  [:low, :middle, :high].each do |level|
+    define_method(level) do
+      @state = level
+    end
+  attr_reader :state
+  end
+end
+
+log = Mode.new
+log.low
+log.state    #=>low
+log.middle
+log.state    #=>middle
+log.high
+log.state    #=>high
