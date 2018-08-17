@@ -41,3 +41,5 @@ git remote add origin <url>
 git remote add github <url>
 git remote -v
 git remote rename origin destination
+# change the git remote 'push to' default
+git push -u <remote_name> <local_branch_name>
