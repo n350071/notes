@@ -34,4 +34,10 @@ git push origin [new name]  # done to rename
 git remote -v
 git fetch upstrem
 git rebase upstream/master
-git pull --rebase upstream master 
+git pull --rebase upstream master
+
+# git remote
+git remote add origin <url>
+git remote add github <url>
+git remote -v
+git remote rename origin destination
