@@ -15,3 +15,10 @@ apm maximize-panes
 '.platform-darwin':
   'cmd-shift-t' :	'tree-view:toggle'
 ```
+
+## keymap for just remember
+- markdown preview
+  - ```
+  'atom-text-editor':
+    'ctrl-shift-M': 'markdown-preview:toggle'
+  ```
