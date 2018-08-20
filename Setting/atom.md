@@ -1,7 +1,9 @@
 # atom
 ## install
 apm install react
-apm maximize-panes
+apm install maximize-panes
+apm install convert-to-utf8
+apm install auto-encoding
 
 ## keymap (cson)
 ```
@@ -17,8 +19,8 @@ apm maximize-panes
 ```
 
 ## keymap for just remember
-- markdown preview
-  - ```
-  'atom-text-editor':
-    'ctrl-shift-M': 'markdown-preview:toggle'
-  ```
+
+ Feature | keymap_
+-- | --
+markdown preview | ctrl-shift-M
+encoding | ctrl-shift-u
