@@ -3,8 +3,9 @@
 ## what is redis?
 in-memory data structure store, used as a database, cache and message broker. It supports data structures such as strings, hashes, lists, sets, sorted sets with range queries, bitmaps, hyperloglogs and geospatial indexes with radius queries.
 
-## tutorial
-http://try.redis.io/
+## tutorial and commands
+- http://try.redis.io/
+- https://qiita.com/rubytomato@github/items/d66d932959d596876ab5#keys
 
 ## install
 
