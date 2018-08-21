@@ -24,3 +24,9 @@ apm install auto-encoding
 -- | --
 markdown preview | ctrl-shift-M
 encoding | ctrl-shift-u
+
+## Find in Project
+To ignore some directory..,
+```
+!vendor
+```
