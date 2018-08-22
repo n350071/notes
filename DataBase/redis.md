@@ -17,7 +17,59 @@ redis
 
 ## redis-cli
 
+### connect to redis server
 ```
-$ ssh -i ~/.ssh/server.pem server-user@xxx.xxx.xxx.xxx
 $ redis-cli -h redis.server.name -p 6379
+$ redis-cli -u redis://127.0.0.1:6379/1
+```
+
+[Adds the `-u <uri>` option to redis-cli #3409](https://github.com/antirez/redis/pull/3409)
+
+-h -p はホスト名, ポート名指定だけれど、
+-u なら、 `config/settings/development.yml` からコピって貼るだけなので便利。
+
+## count keys
+
+```
+> DBSIZE
+(integer) 7468317
+```
+
+```
+$ redis-cli -u redis://127.0.0.1:6379/1  KEYS "*" | wc -l
+$ redis-cli -u redis://127.0.0.1:6379/1  KEYS "*resque*" | wc -l
+```
+
+
+## redis with Rails ActiveJob
+
+```
+class BlahBlahJob < ActiveJob::Base
+  queue_as :default
+
+  def perform(arg)
+    do_something(arg)
+  end
+end
+```
+
+```
+$ job = BlahBlahJob.perform_later @something
+Enqueued BlahBlahJob (Job ID: xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx) to Resque(default) with arguments: gid://application-name/BlahBlah/1
+
+$ job.queue_name
+=> "default"
+```
+
+```
+$ redis-cli -u redis://127.0.0.1:6379/1
+
+> keys "resque:queue:default"
+1) "resque:queue:default"
+
+> type "resque:queue:default"
+list
+
+> lrange "resque:queue:default" 0 -1
+1) "{\"class\":\"ActiveJob::QueueAdapters::ResqueAdapter::JobWrapper\",\"args\":[{\"job_class\":\"BlahBlahJob\",\"job_id\":\"xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxx\",\"queue_name\":\"default\",\"arguments\":[{\"_aj_globalid\":\"gid://application-name/BlahBlah/1\"}],\"locale\":\"ja\"}]}"
 ```
