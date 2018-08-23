@@ -44,3 +44,5 @@ git remote -v
 git remote rename origin destination
 # change the git remote 'push to' default
 git push -u <remote_name> <local_branch_name>
+# delete remote branches of not upstream
+git branch --remote | grep -v "upstream" | egrep -v "origin/master|origin/deployment" | xargs git branch -dr
