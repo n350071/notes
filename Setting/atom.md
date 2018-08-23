@@ -1,9 +1,13 @@
 # atom
 ## install
-apm install react
-apm install maximize-panes
-apm install convert-to-utf8
-apm install auto-encoding
+
+- apm install react
+- apm install maximize-panes
+- apm install convert-to-utf8
+- apm install auto-encoding
+- apm install [split-diff](https://atom.io/packages/split-diff)
+- apm install [https://github.com/mfripp/atom-tablr.git](https://github.com/abe33/atom-tablr/issues/100#issuecomment-406904774) A
+- apm install [atom-csv-markdown](https://atom.io/packages/atom-csv-markdown)
 
 ## keymap (cson)
 ```
@@ -24,6 +28,7 @@ apm install auto-encoding
 -- | --
 markdown preview | ctrl-shift-M
 encoding | ctrl-shift-u
+diff   | ctrl-alt-t
 
 ## Find in Project
 To ignore some directory..,
