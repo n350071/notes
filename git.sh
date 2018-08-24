@@ -1,7 +1,7 @@
-# open changed files by atom
+# open changed files
 git diff HEAD^ --name-only | xargs atom
 
-# dit diff for staged files
+# git diff for staged files
 git diff --cached
 
 # git log
@@ -23,7 +23,7 @@ git blame TargetFile|peco|cut -d " " -f 1|xargs git show
 ## is it merged?
 git branch --merged master     # show branchs that is merged     -> ok to delete
 git branch --no-merged master  # show branchs taht is not merged -> not ok to delete
-git branch --merged | xargs git branch -d #マージ済みのブランチを削除しよう
+git branch --merged | egrep -v 'master' | xargs git branch -d #マージ済みのブランチを削除しよう
 ## delete
 git branch -d [branch name]
 ## rename
