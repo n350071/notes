@@ -1,6 +1,9 @@
 # open changed files
 git diff HEAD^ --name-only | xargs atom
 
+# 取り消したい
+git commit --amend --no-edit # 登録されたインデックスを直前のコミットにまとめる
+
 # git diff for staged files
 git diff --cached
 
