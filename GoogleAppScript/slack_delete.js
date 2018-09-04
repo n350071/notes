@@ -19,10 +19,10 @@ var logSheet  = book.getSheetByName("log");
  * this get slack.history and paste it to google sheet
  */
 function getSlackHist(){
-  var slackUrl = "https://slack.com/api/conversations.history?token=***
+  var slackUrl = "https://slack.com/api/conversations.history?token=***"
   var response = UrlFetchApp.fetch(slackUrl)
   Logger.log(response.getContentText());
-  
+
   var resJson = JSON.parse(response.getContentText());
   for(i=0; i < resJson.messages.length; i++){
     mainSheet.getRange(i+1, 1).setValue(resJson.messages[i].text);
@@ -32,7 +32,7 @@ function getSlackHist(){
 }
 // https://slack.com/api/chat.delete?token=***
 function delSlackAnMessage(){
-  var urlPrefix   = "https://slack.com/api/chat.delete?token=***
+  var urlPrefix   = "https://slack.com/api/chat.delete?token=***"
   var urlSafix = "&pretty=1"
 
   var tsAry = mainSheet.getRange(1, 2, mainSheet.getLastRow()).getValues();
