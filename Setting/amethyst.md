@@ -1,10 +1,5 @@
 # amethyst
 
-## install
-```
-brew cask install amethyst
-```
-
 ## setting
 ```
 off: Enable Layout HUD on Space Change

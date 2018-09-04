@@ -78,6 +78,7 @@
 ## brew
 ```
 brew install peco #Simplistic interactive filtering tool
-brew
-
+brew cask install atom
+brew cask install visual-studio-code
+brew cask install amethyst
 ```
