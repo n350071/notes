@@ -82,3 +82,8 @@ brew cask install atom
 brew cask install visual-studio-code
 brew cask install amethyst
 ```
+
+## find all components
+```
+mdfind -name "kindle"
+```
