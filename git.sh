@@ -17,6 +17,8 @@ git log --author='name'
 git log --no-merges
 git log --first-parent
 git log --grep hoge
+git log -p -S xxx # see commits that include changes with xxx
+git log -p -S xxx --pickaxe-all # with all files
 
 # git blame
 git blame TargetFile|grep TargetWord|cut -d " " -f 1|xargs git show
