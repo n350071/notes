@@ -19,6 +19,7 @@ git log --first-parent
 git log --grep hoge
 git log -p -S xxx # see commits that include changes with xxx
 git log -p -S xxx --pickaxe-all # with all files
+git log --oneline --graph --pretty=format:"[%ad] %cn %s %h"
 
 # git blame
 git blame TargetFile|grep TargetWord|cut -d " " -f 1|xargs git show
@@ -51,3 +52,6 @@ git remote rename origin destination
 git push -u <remote_name> <local_branch_name>
 # delete remote branches of not upstream
 git branch --remote | grep -v "upstream" | egrep -v "origin/master|origin/deployment" | xargs git branch -dr
+git branch -a
+git fetch
+git checkout -b other_branch origin/other_branch

@@ -81,6 +81,8 @@ brew install peco #Simplistic interactive filtering tool
 brew cask install atom
 brew cask install visual-studio-code
 brew cask install amethyst
+brew install jq # => use like this : curl localhost:8080/api/json | jq .
+brew cask install eqmac
 ```
 
 ## find all components
