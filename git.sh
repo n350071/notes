@@ -55,3 +55,11 @@ git branch --remote | grep -v "upstream" | egrep -v "origin/master|origin/deploy
 git branch -a
 git fetch
 git checkout -b other_branch origin/other_branch
+
+# git emoji commit
+#`commit.template`ファイルを追加した上で、
+# 以下の設定を `.git/config` に記載しておくと `git commit` で確認することができます。
+```
+[commit]
+ 	template = commit.template
+```

@@ -13,3 +13,8 @@ $ docker-compose run --service-ports web bundle exec rails s -b 0.0.0.0
 docker-compose run db bash
 psql -h db -U postgres -d xxxxx_development
 ```
+
+Stop all run container
+```
+docker stop $(docker ps -aq)
+```
