@@ -63,3 +63,8 @@ git checkout -b other_branch origin/other_branch
 [commit]
  	template = commit.template
 ```
+
+# search all remote branches for search-string.
+# git grep 'search-string' $(git ls-remote . 'refs/remotes/*' | cut -f 2)
+git grep 'search-string' $(git ls-remote . 'refs/remotes/*' | grep -v HEAD | cut -f 2)
+git grep 'search-string' $(git rev-list --all)
