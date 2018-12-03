@@ -68,3 +68,8 @@ git checkout -b other_branch origin/other_branch
 # git grep 'search-string' $(git ls-remote . 'refs/remotes/*' | cut -f 2)
 git grep 'search-string' $(git ls-remote . 'refs/remotes/*' | grep -v HEAD | cut -f 2)
 git grep 'search-string' $(git rev-list --all)
+
+
+# check conflict before merge
+git merge --no-commit branch2
+git merge --abort # check the return code here

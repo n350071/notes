@@ -34,6 +34,7 @@
 - off: kotoeri
 ## Mission Control
 - off: Automatically rearrange Spaces based on most recent use
+- Dashboard: As Overlay
 ## Dock
 - on: Automatically hide and show the dock
 ## User

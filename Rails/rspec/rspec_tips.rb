@@ -29,3 +29,7 @@ end
 
 # 変化の数を調べたいとき
 it{expect{something.save}.to change{ SomethingRelation.count }.by(3)}
+
+# mock
+before{allow_any_instance_of(ClassName).to receive(:a_method).and_return('great!')}
+before{allow_any_instance_of(ClassName).to receive(:a_method).and_raise(StandardError.new("error")) }
