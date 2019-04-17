@@ -3,6 +3,7 @@
 ### list the rake tasks
 ```
 bundle exec rake -XT
+bundle exec rake -T -A
 ```
 
 ### ActiveRecord::PendingMigrationError

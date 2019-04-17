@@ -73,3 +73,32 @@ git grep 'search-string' $(git rev-list --all)
 # check conflict before merge
 git merge --no-commit branch2
 git merge --abort # check the return code here
+
+# マージコミットをrevertして幹の方を残す(mergeされる側は2を選択)
+git revert -m 1 7143dc9d8d835efa3012e9ad624c75965297ee88 -n
+git revert --continue
+
+# マージの複雑なコンフリクトのときに使う
+git checkout --conflict=diff3 file.rb # Baseコンフリクトマーカーも表示する
+git checkout --conflict file.rb # コンフリクトマーカーの書き直し
+
+# make empty github pullrequest
+git commit --allow-empty -m #{プルリクエストのタイトル}
+git push origin #{ブランチ名}
+git branch -u origin/#{リモートブランチ名}
+git branch -vv
+
+
+# git cloneする際のディレクトリに名前をつける
+git clone git@github.com:nao0515ki/rails-on-k8s.git rails-on-k8s-refactor
+
+# git コミットメッセージからマージ元ブランチを特定する（原始的バージョン）
+## --more= の数字を適当に切り替える
+git show-branch --more=400 master | grep 'hoge'
+## [master~70^2~3] hoge というような行がみつかるので、、その数字でもういちど実行してスクロールすると、見つけられる
+git show-branch --more=400 master
+## [master~70] Merge pull request #306 from organize/branch-name
+## [master~70^2] buzz
+## [master~70^2^] fizz
+## [master~70^2~2] fuga
+## [master~70^2~3] hoge

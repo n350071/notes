@@ -1,0 +1,7 @@
+調査
+- gem
+  - https://github.com/octokit/octokit.rb
+  - https://qiita.com/kompiro/items/0504c70eb8f522e1f66a
+- api
+  - https://developer.github.com/v3/
+- [Sawyer::Resource](https://www.rubydoc.info/gems/sawyer/Sawyer/Resource)
