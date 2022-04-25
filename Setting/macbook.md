@@ -91,3 +91,10 @@ brew cask install postman
 ```
 mdfind -name "kindle"
 ```
+
+# screen shot
+```sh
+$ defaults write com.apple.screencapture location ~/Downloads/screenshot/
+$ defaults write com.apple.screencapture name "ScreenShot"
+$ killall SystemUIServer
+```
