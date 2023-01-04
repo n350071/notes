@@ -1,5 +1,5 @@
 # settings
-## General
+## Desktop & Dock
 - ON: Automatically hide and show the menu bar
 ## keyboard
 ### keyboard
