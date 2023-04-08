@@ -1,4 +1,7 @@
 # zeroichi_hacker
+## TODO
+- 倉増さん, Akiさんをzeroichi-hacker ギルドに誘う
+
 ## sales
 ファイル参照（ `sales.md` ）
 
@@ -13,6 +16,8 @@
 2.オンラインでの見守り保育園的なの
 3.いろんなSNSを集約的に使ってくれるやつ
 4.クラファンの人材版（空き時間に無料で手伝うよ、みたいな）
+- 参考
+  - 家と仕事を失った人を救うサービス: https://youtube.com/shorts/KnkryAKX_AA?feature=share
 
 
 ## FellowPlayers
