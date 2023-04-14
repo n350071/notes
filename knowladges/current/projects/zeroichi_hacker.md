@@ -1,24 +1,19 @@
 # zeroichi_hacker
-## TODO
-- 倉増さん, Akiさんをzeroichi-hacker ギルドに誘う
-
 ## sales
 ファイル参照（ `sales.md` ）
 
 ## management(経営)
 - インボイス対応 until 10月？
 - 税理士を見つける
-- 弁護士と仲良くなっておく
 - 消費税の軽減方法を確認し、実施する（5%にする方法）
+- 良い弁護士を探しておく
 
 ## Stock
 1.無農薬野菜とか手に入りづらいものが今どこにあるかすぐにわかるやつ
 2.オンラインでの見守り保育園的なの
 3.いろんなSNSを集約的に使ってくれるやつ
 4.クラファンの人材版（空き時間に無料で手伝うよ、みたいな）
-- 参考
-  - 家と仕事を失った人を救うサービス: https://youtube.com/shorts/KnkryAKX_AA?feature=share
-
+- 家と仕事を失った人を救うサービス: https://youtube.com/shorts/KnkryAKX_AA?feature=share
 
 ## FellowPlayers
 現状の仲間についての記録であり、思考は書かない。人についての詳しい記載は、 references を参照すること
@@ -28,7 +23,8 @@
 - 八島さん
 
 ## Guild
-
+- 倉増さん, Akiさんをzeroichi-hacker ギルドに誘う
+- コミュニティスペース・ウィズスクエア（福岡店）に訪ねて、どんな雰囲気か？を知りたい
 
 ## Others
 - PiTaPaとIDの解約
