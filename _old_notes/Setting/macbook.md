@@ -90,6 +90,7 @@ brew cask install postman
 ## find all components
 ```
 mdfind -name "kindle"
+mdfind -name "slack"
 ```
 
 # screen shot
