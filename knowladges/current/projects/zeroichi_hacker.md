@@ -2,6 +2,7 @@
 ## sales
 - 🔥オートシステムに行きたい
 - 🔥お客様の声: 大西さん interview
+- 年間契約.md
 
 ## management(経営)
 - インボイス対応 until 10月？
@@ -35,3 +36,5 @@
 - NuPhy Air 60 サイトから直接購入したい
 - メール署名を修正
   - https://youtube.com/shorts/zL1cUUWFS5E?feature=share
+- ZZRはリース契約に変える
+- 中川先生のやさしいビジネススクールに入る
