@@ -65,3 +65,6 @@
 ## その他
 - metalife
   - https://metalife.co.jp/remote-work/?fbclid=IwAR3sQJwzRuYyxgKFoVXP7IWcALCuRPD_JrFVZwDgrFwDLRu3LHCvBIYeeTU
+- ピエロックのノリ
+  - まつりだ！
+  - ロジックではない。集まった人の熱気が大事。
