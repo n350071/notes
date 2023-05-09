@@ -1,14 +1,5 @@
 # zeroichi_hacker>backlog
-## 速攻
-- lb: LbEへ退院報告＆訪問調整＆構想資料読み込み
-- ze: 事業計画書の確認(4月分)
-- ze: ゆるく暮らしたいを書き上げる
 ## 今週中(8~)
-- ze: 年間契約.md についての我々の心づもりの合意形成（see_also: ゆるく暮らしたい）
-- ds: テクノプライム案件を断る（どうなりましたか？その後待てと言われていますが...）
-- ds: dsお客様の声inteview_script.md
-- dx: DX勉強会#5資料作り
-- ze: ZZRはリース契約に変える
 ## 来週中(15~)
 - sales: 熊本さん>九州大学の産学連携についてヒアリングしにいく
 - Ki: AWS消す連絡: https://zeroichi-hacker.kibe.la/notes/5602
