@@ -1,6 +1,6 @@
-# zeroichi-crossing.md
+# zeroichi-crossing>考察.md
 ---
-- follow: zeroichi_hacker.md
+- follow: zeroichi-hacker.md
 - followed: みんなの興味.md
 ---
 

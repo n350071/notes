@@ -7,11 +7,11 @@
 
 ## 今週中(8~)
 ## 来週中(15~)
-- sales: 熊本さん>九州大学の産学連携についてヒアリングしにいく
-- Ki: AWS消す連絡: https://zeroichi-hacker.kibe.la/notes/5602
-- ze: 税務署へ確認(消費税.md)
+
 ## 翌々週(22~)
+- Ki: AWS消す連絡: https://zeroichi-hacker.kibe.la/notes/5602
 - sales: 熊本さん>オートシステムに遊びに行く
+- sales: 熊本さん>九州大学の産学連携についてヒアリングしにいく
 
 ## なるはや
 - オフィス環境.md
