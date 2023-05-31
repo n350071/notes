@@ -1,5 +1,8 @@
 # zeroichi-hacker.md
 - backlog.md
+- ロゴに込めた想い.md
+
+
 ## office
 - MacBook.md
 - ゼロイチオフィス.md
@@ -14,6 +17,7 @@
 - 年間契約
 - 水野の想い
 - 消費税.md
+- 弁護士.mds
 
 ## Stock.md
 

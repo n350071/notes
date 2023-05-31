@@ -2,7 +2,9 @@
 
 ---
 follow: お客様の声.md
+link_to: https://drive.google.com/drive/folders/1DORYezjcqo65AoR3dFwfdrJ_zQwjWEmG
 ---
+
 
 ## 依頼
 ### 依頼文
@@ -25,7 +27,7 @@ follow: お客様の声.md
 - 22:00~ at Zoom
 - 13:00-14:00 at カフェ
 
-## インタビュースクリプト
+## インタビュースクリプト（インタビュー内容）
 ※インデントの一番上が聞くこと、下の階層はメモや誘導内容です
 
 - お客様の紹介と出会い
