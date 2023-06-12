@@ -1,6 +1,14 @@
 # もくじ
 <img title='image.png' alt='image' src='/attachments/7fdc4743-8a43-4f04-8088-a5c4b9ea7493' width="450" data-meta='{"width":450,"height":337}'>
 
+## 日程
+- 06: 15
+- 07: 20
+- 08: 17
+- 09: 21
+- 10: 19
+- 11: 16
+- 12: 21
 
 ## マインド編（心）："やり方"の暗記ではなく、根本の"考え方"を知ろう
 ### Featureing この章で理解してもらうこと
