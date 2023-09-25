@@ -3,6 +3,12 @@
 - until: 9月前半
 - what: 出る / 出ない
 
+## 城戸さんに相談
+- 1日か2日だけ現地へ行く
+- IPA, ISITと一緒に写っている写真を取りたい
+  - 自社のHPに載せたい
+
+
 ## 資料
 https://docs.google.com/presentation/d/1Nev4CLMkuMI2YUmealxpcEjnzysmlKXF/edit?usp=drive_link&ouid=109986009495493118344&rtpof=true&sd=true
 
