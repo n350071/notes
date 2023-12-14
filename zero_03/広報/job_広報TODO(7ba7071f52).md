@@ -1,4 +1,4 @@
-job_広報TODO_7ba7071f52.md
+job_広報TODO(7ba7071f52).md
 ---
 
 - お客様の声を掲載する c2a109486f
