@@ -14,22 +14,28 @@ draft_gpt
 なし
 
 # 指示
-
-
+{## 参照１}のコードが、毎日、昼間の12:00に実行されるように、cronを設定してください。
+コマンドのエイリアスを、{## 参照２}の.bash_profileに設定しても構いません。
 
 # 形式
-- 表形式
-- 列は「想定質問」、「回答例」、「聞かれる可能性」
-- 評価
+コードスニペットを含むこと
 
 # 評価
-- 想定質問が聞かれる可能性を５段階で評価
+- cronの設定が正しいか
+- もっとよいやり方があるか？
 
 # 参照
+## 参照１
 ```sh
 cd ~/Github/n350071/notes
 git checkout main
-git commit -am "update"
-
+git add .
+git commit -m `date '+%Y-%m-%d'`
+git push origin main
 ```
 
+## 参照２
+.bash_profileの位置
+```sh
+~/.bash_profile
+```
