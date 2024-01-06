@@ -1,7 +1,7 @@
 zero_03/client_lbe/jobs/feature/v2.0.1/revenue_closure_at(3087f70252).md
 ---
 
-backlink: client_lbe(93259dc16f)
+
 
 ## TODOまとめ
 - B__:
