@@ -1,6 +1,9 @@
 note_pwaについて(1bfbb24ede)
 ---
 
+## MDNのPWAのページ
+https://developer.mozilla.org/ja/docs/Web/Progressive_web_apps
+
 ## ハラサポでのPWA化作業
 https://github.com/zeroichi-hacker/harasapo/pull/45
 
