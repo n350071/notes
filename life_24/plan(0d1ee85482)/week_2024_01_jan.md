@@ -4,9 +4,6 @@ week_2024_01.md
 backlink: plan(0d1ee85482)
 ---
 
-## meta
-Jan week 1(1)
-
 ## bookmarks
 - コミュニケーションスニペット(a120d80519)
 - note_ノートの整理(8b29fac840)
