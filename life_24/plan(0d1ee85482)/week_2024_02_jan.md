@@ -32,34 +32,28 @@ week_2024_02.md
 - ✅lmi: minecraftで、家を建てる
 ### fri 12
 - ✅zmi: 石垣・水野・上村の作業計画を立てる
-- lbe: GLの経費申請時のメール自動送信
-- zmi: Ruby Laungage Server が使えるようにする
-- lbe: https://lbejapan.net/staff/manage/analytics/programs/128 で担当者の北薫子さんを取得できない
-- wip: 13:05-14:00
-- bsp: 14:00-15:00
-  - https://zoom.us/j/93741839504?pwd=M3ZQN3FxNzNWWWI1Umx3Yk0zbzJZUT09
-  - https://it-shien.smrj.go.jp/applicant/subsidy/normal/
-- zmi: 15:00-16:00 kpt
-- lmi: 照明器具の設置（キッチン）
-- lmi: 照明器具の設置（土間）
-- lmi: 19:00- FMM参加 with 雄陽 at 福吉公民館
+- ✅bsp: 14:00-15:00
+- ✅lbe: GLの経費申請時のメール自動送信
+- ✅lmi: 照明器具の設置（キッチン）
+- ✅lmi: 19:00- FMM参加 with 雄陽 at 福吉公民館
 ### sat 13
-- rec: 上村さんの給与設計 note_給与設計(ff7218bcf1)
-- man: 財務計画書を作成する
-- man: 月次経営会議（財務視点）
+- ✅cre: 上村さんの給与設計 note_給与設計(ff7218bcf1)
+- lmi: 雄陽のおやつ作り
+- 📌lmi: 照明器具の設置（土間）
+- 📌lmi: 照明器具の設置（お風呂）
+- 📌lmi: 照明器具の設置（薪エリア）
+- 📌per: 木の間伐を行う（苗木を植えるため）
+- 📌19:00-19:40 坐禅会
+### sun 14
+- lmi: みつばちのおもちつき（1/14 Sun）
+- 📌man: 財務計画書を作成する
+- 📌man: 月次経営会議（財務視点）
 - lmi: セレナの継続契約
 - lmi: ヤフープレミアムの解除
 - lmi: minecraftで、家を建てる
-- ~~福岡Rubyフェスタ2024 13:30-15:40 アクロス福岡 4F国際会議場~~
-- lmi: 雄陽のおやつ作り
-- per: 木の間伐を行う（苗木を植えるため）
-- 19:00-19:40 坐禅会
-### sun 14
-- lmi: みつばちのおもちつき（1/14 Sun）
-- lmi: 照明器具の設置（お風呂）
-- lmi: 照明器具の設置（薪エリア）
 
 ---
 
-
+AIについての記事
+https://qiita.com/ksonoda/items/ba6d7b913fc744db3d79
 

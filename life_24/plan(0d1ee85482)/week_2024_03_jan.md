@@ -14,6 +14,10 @@
 ## schedule
 ### mon 15
 - 野口さん、大堂さんに打診する？
+- zmi: Ruby Laungage Server が使えるようにする
+- lbe: https://lbejapan.net/staff/manage/analytics/programs/128 で担当者の北薫子さんを取得できない
+- bsp: 見積書を更新する（アクセス解析を入れて、２つのアプリとして振る舞うことを抜く）
+
 ### tue 16
 ### wed 17
 ### thu 18
