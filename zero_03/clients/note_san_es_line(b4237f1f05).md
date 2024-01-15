@@ -1,9 +1,34 @@
-note_sline(b4237f1f05)
+note_san_es_line(b4237f1f05)
 ---
 
 SAN ESU LINE 瀬戸さん
 ---
 
+## meeting url
+https://us02web.zoom.us/j/83232620265?pwd=TmVIL3cxNWhJcHFVd3ZaZ0lVdWZnUT09
+
+## Hearing
+### 背景
+
+### 目的
+業務の効率化
+
+### 目標 = 投資効果(費用対効果)
+何円をつっこみ、何円を得するのか？
+
+### 暫定
+#### 仮説
+#### 解決策
+#### エレベーターピッチ
+
+### 業務理解
+#### context
+#### input
+#### output
+#### process
+#### integration
+
+---
 ## DM
 ### from サンエスライン 瀬戸 知輝
 明けましておめでとうございます。
@@ -42,3 +67,6 @@ What: なにをするか？
 よろしくお願い致します:pray:
 
 ---
+
+
+

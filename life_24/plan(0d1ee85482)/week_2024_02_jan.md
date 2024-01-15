@@ -40,19 +40,11 @@ week_2024_02.md
 - ✅cre: 上村さんの給与設計 note_給与設計(ff7218bcf1)
 - ✅lmi: 照明器具の設置（土間）
 ### sun 14
-- lmi: セレナの継続契約
+- ✅lmi: minecraftで、家を建てる
 - ✅lmi: ヤフープレミアムの解除
-- lmi: minecraftで、家を建てる
 - ---
-- lmi: 照明器具の設置（お風呂）
-- lmi: 電源の設置
-- per: 木の間伐
-- mon: プリペイドカードを３つ取得する
-- 📌man: 財務計画書を作成する
-- 📌man: 月次経営会議（財務視点）
+- ✅per: 木の間伐
 
 ---
 
-AIについての記事
-https://qiita.com/ksonoda/items/ba6d7b913fc744db3d79
 
