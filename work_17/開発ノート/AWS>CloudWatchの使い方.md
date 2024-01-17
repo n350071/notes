@@ -125,9 +125,10 @@
 { $.message = "*fa70801552*" }
 { $.message = "*ProgramEmployeeの保存に失敗しました*" }
 { $.message = "*Start ScheduledTasks::RunNotifyRemindExpenseRequest.task_run*" }
-{ $.message = "*debug SyncProgramEmployee:*" }
 { $.level = "error" }
 { ($.level = "info") && ($.message = "*debug SyncProgramEmployee:*") }
+{ $.message = "*SyncProgramEmployee*" }
+{ ($.message = "*ProgramEmployeeの保存に失敗しました。*") && ($.message != "*Employee must exist*") }
 
 
 
