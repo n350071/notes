@@ -8,6 +8,7 @@
 ## schedule
 ### mon 05
 - zmi: 16:00-17:30 FGN入居面接
+  - https://meet.google.com/cqq-cnzv-kgq
 ### tue 06
 ### wed 07
 ### thu 08
