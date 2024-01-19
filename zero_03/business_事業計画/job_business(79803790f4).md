@@ -31,3 +31,7 @@ https://drive.google.com/drive/folders/10LK2jU2Ygi1K008UerjrNeNH77G6HkqP?usp=sha
 
 ## 潜在顧客・健在顧客・エンジニアに価値を理解してもらえるように、ブランディングを行う
 job_branding(7ba7071f52)
+
+---
+## その他
+- 作業時間の定義（雑想、kpt、なども開発業務ですよ！の定義）
