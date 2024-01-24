@@ -129,6 +129,7 @@
 { ($.level = "info") && ($.message = "*debug SyncProgramEmployee:*") }
 { $.message = "*SyncProgramEmployee*" }
 { ($.message = "*ProgramEmployeeの保存に失敗しました。*") && ($.message != "*Employee must exist*") }
+{ $.message = "*MoneyForward API Error*" }
 
 
 
