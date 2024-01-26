@@ -11,6 +11,7 @@
   - https://meet.google.com/cqq-cnzv-kgq
 ### tue 06
 ### wed 07
+- zmi: バービーさんと、Steamshipカフェで打ち合わせ
 ### thu 08
 - lbe: 13:00-14:00 定例
 ### fri 09
