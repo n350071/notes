@@ -10,6 +10,7 @@
 - zmi: 16:00-17:30 FGN入居面接
   - https://meet.google.com/cqq-cnzv-kgq
 ### tue 06
+- bsp: 13:0-14:00 定例会
 ### wed 07
 - zmi: バービーさんと、Steamshipカフェで打ち合わせ
 ### thu 08
