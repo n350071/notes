@@ -1,4 +1,4 @@
-book_azure_openai_service
+book_azure_openai_service(8471ce5386)
 ---
 
 ## memo01
@@ -452,4 +452,161 @@ P(Y | X)
 - memo28: 各社のサービス: うまく組み合わせて使うことで、初心者をサポートするプログラミング環境を作ることができそう
 - memo35: 責任あるAI: 意外と大事だった。ここを無視すると、人間にとっては、使い物にならないAIになるので、ここはしっかりと押さえておきたい
 
-## memo37: Azure OpenAI アーキテクチャ全体像
+---
+アーキテクチャ全体像
+## memo37: Azure OpenAI が単独でできること / できないこと
+- 単独でできること
+  - モデルの選択
+  - モデルのデプロイ
+  - プロンプトの付加（プロンプトエンジニアリングを含む）
+  - ファインチューニング
+- 単独でできないこと
+  - 独自データの利用
+  - インターネットのデータの利用
+  - LLMでの外部処理の実行
+
+複雑なことをしたいなら、Azure OpenAI を包含する Copilot stack と組み合わせていくこと
+
+## memo38 Copilot Stack フレームワーク
+- 3層構造
+  - Frontend Design(UIなので、既存Azureサービス)
+    - 画面
+    - プラグイン拡張
+  - Orchestration Layer
+    - プロンプトの処理
+    - メタプロンプト
+    - rounding / RAG
+    - プラグイン実行
+  - Foundation Models
+    - 基本モデル
+    - ファインチューニングされたモデル
+    - 独自モデル
+- 開発順序
+  - 下から、上へ
+  - Foundation Models → Orchestration Layer → Frontend Design
+  - なんとなくMVCパターンっぽい
+- 各層で、要件を満たすために必要なものをピックアップして選定する
+
+## memo39: Orchestrator Layer
+- プロンプトの処理
+  - Function Calling: Azure OpenAI
+  - Semantic Kernel
+  - Lang Chain
+- Embedding
+  - Cognitive Search
+- Grounding / RAG
+  - On your data: Azure OpenAI
+- プラグイン実行
+  - プラグイン開発
+- 責任あるAI
+  - Azure AI Content Safety
+
+## memo40: ChatGPT を社内向けにするだけ
+Azure OpenAI を導入する（だけ）
+
+---
+Azure OpenAI を使ったアーキテクチャ４選
+
+## memo41: 独自データを使ったシンプルな検索/回答（Cognitive Search, On your data）
+- Webブラウザ
+- Azure App Service:UI担当 + Cognitive Search から検索結果取得 + Azure OpenAI に質問して回答を得る
+  - プロンプトの合成: "#{検索結果}. 検索結果を基にうまく回答して"
+- 独自データはどちらかを選択
+  - Cognitive Search: 高機能、要デプロイ
+  - On your data: かんたん低機能
+- Azure OpenAI: 回答を生成
+
+## memo42: Embedding ベクトル検索を使った独自データの検索／回答（Cognitive Search）
+- 動作イメージ
+  - Cognitive Search のデータ
+    - 施設の修繕に関わる担当部署はA部署です。
+  - 質問内容
+    - ガラスが割れています。どこに聞けばいい？
+  - Cognitive Search で検索
+    - 施設の修繕に関わる担当部署はA部署です。
+  - Cognitive Search から取得した結果を基に、Azure OpenAI に質問して回答を得る
+    - 施設の修繕に関わる担当であるA部署に問い合わせることが適切です。
+- 手順
+  - データをベクトル化して、インデックスを貼る: Embedding用のLLMを利用
+  - ユーザからの質問を、同じモデルでベクトル化して、Coginitive Search で検索する
+  - 検索結果を基に、Azure OpenAI に質問して回答を得る
+
+## memo43: 低コスト化
+- Power Apps
+- Power Automate
+
+## memo44: 外部のプラグインと連携した検索／回答（Function Calling, LangChain, Semantic Kernel, プラグイン開発）
+- LangChain
+  - Azure OpenAIの推し
+  - Cognitive Search を呼び出せる
+  - on Azure App Service で様々なデータソースを調べられる高度な生成AIシステムを作れる
+    - AWSの Elastic Beanstalk に相当
+- Semantic Kernel
+  - マイクロソフトが開発
+- Function Calling
+  - Azure OpenAIのGPTモデルの機能
+  - 多様なデータソースのどれを選択するか？を調べるために、どれに該当しそうか？をLLMに答えさせる機能
+    - if 自然言語を生成するべきか？
+    - else
+      - return 外部サービスを呼び出す外部関数
+    - end
+  - 生成AIサービスは、外部サービスを使って、情報を調べる
+    - （なんとなく、ストラテジパターンとかポリモーフィズムっぽい）
+- プラグイン
+  - Function Calling をもっと簡単に使えるようにしたもの
+  - 開発が必要
+
+## memo45: 複雑な処理を伴う検索／回答（プロンプトフローで、各サービスを統合）
+題名だけでOK
+
+---
+Copilot stack
+
+## memo46: Copilot stack
+- 以前の課題
+  - 生成AIのシステムを構築するには、AIに関する様々な多くのデータ、スキル、リソースが必要になり、難易度が高かった。
+- 解決策
+  - Copilot stack
+    - 3つの主要コンポーネント
+      - Frontend Design
+      - Orchestration Layer
+      - Foundation Models
+  - 誰でも開発できるようにしたフレームワーク
+
+## memo47: Copilot stack の構成
+- Frontend Design
+  - Fluent UI
+- Orchestration Layer
+  - メタプロンプト
+  - プロンプトの処理
+    - ユーザの意図の汲み取り
+    - 処理の実行計画
+  - Grounding / RAG
+    - 生成AIシステムの出力の品質や正確性の向上
+    - 外部データの参照プロセス
+  - プラグイン実行管理
+    - 実行計画に従って、プラグインの実行を管理するプロセス。
+- LangChain
+  - Azure Machine Learning
+    - プロンプトフロー
+      - GUIで処理のフローを構築できる
+- Foundation Models
+  - モデルのデプロイ場所
+  - モデルのアクションの処理を担当
+  - ３つのデプロイ方法
+    - Hosted Foundation Models
+      - Azure OpenAIのSaaSとして利用するだけでよい
+      - ファインチューニング（独自データを学習させる）は不可。
+    - Hosted fine-tuned foundation models
+      - AIインフラを用意する必要なし
+      - 独自データを使ってLLMをファインチューニングできる
+      - モデルのファインチューニングや保存に追加コストや手間が必要
+    - Bring your own models
+      - OSSのLLMを利用してもよい
+      - AIインフラを柔軟にコントロール
+      - 難易度高め
+      - モデルによっては倫理観のないAIができてしまう
+
+## memo48: 自分はどんなことをしたいか？
+- 1. Azure OpenAI を導入する
+- 2. On Your Data を使える

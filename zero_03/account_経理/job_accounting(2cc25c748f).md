@@ -2,10 +2,7 @@ job_accounting(2cc25c748f).md
 ---
 
 ## 急いでやること
-- acc: 売掛金が存在していない問題の解消 @miwa
-- acc: 12月までの取引登録を完了させる @miwa
-- acc: 01月の取引登録を完了させる(2/3まで) @miwa
-- acc: 水野くん出資金(08ba9f12e5) @miwa & @naoki
+- acc: 水野くん出資金(08ba9f12e5) @miwa
 
 ## 業務効率化
 - acc: 業務内容を箇条書きにする @miwa

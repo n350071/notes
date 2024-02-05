@@ -26,8 +26,17 @@
 - トイレ事情
 
 ---
-Instagram
+設備
 
+## Instagram
 - https://www.instagram.com/ishigaki_permaculture
 - @683_4
+
+## 銀行口座
+新生銀行
+
+## クレジットカード
+Orico Visa paywave
+
+
 
