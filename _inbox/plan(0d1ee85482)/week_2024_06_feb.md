@@ -9,18 +9,17 @@
 ### mon 05
 - ✅per: visa paywave から amazonカードに変更する aws
 - ✅RSpecの件
-- lbe: Azure OpenAI Service どんな構成で作るか？を検討して、必要な章を読む(8471ce5386)
-- lbe: Azure OpenAI Service の構築を開始する
-- san: システム思考とムダの定義(041d864e53)
-- zmi: 16:00-17:30 FGN入居面接
-  - https://meet.google.com/cqq-cnzv-kgq
-- bus: LbEさん４月で終わらなかった場合の対応をどうするか、考えたほうがいいな...（稼働増やす・人増やす・待ってもらう・単価を上げる）
-
-- 山本さんに飲む？連絡してみるか
+- ✅lbe: Azure OpenAI Service どんな構成で作るか？を検討して、必要な章を読む(8471ce5386)
+- ✅zmi: 16:00-16:30 FGN入居面接
 ### tue 06
+- lbe: Azure OpenAIを構築する(bcc614724d)
 - bsp: 13:00-14:00 定例会
+- san: システム思考とムダの定義(041d864e53)
+- bus: LbEさん４月で終わらなかった場合の対応をどうするか、考えたほうがいいな...（稼働増やす・人増やす・待ってもらう・単価を上げる）
+- 山本さんに飲む？連絡してみるか
 ### wed 07
-- zmi: バービーさんと、Steamshipカフェで打ち合わせ
+- lbe: Azure OpenAI を本番サーバから利用できるようにする
+- zmi: 14:00-16:00 バービーさんと、Steamshipカフェで打ち合わせ
 ### thu 08
 - lbe: 13:00-14:00 定例
 - lmi: 上村さん、熊本さん、夜くる

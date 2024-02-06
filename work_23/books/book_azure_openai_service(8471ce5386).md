@@ -52,7 +52,7 @@ Azure OpenAi を使うと
   - アーキテクチャ全体像（ここは押さえておきたい、4より先に読もう）
   - Copilot Stack（かっこいい）
   - Azure AI Search
-  - Grounding/RAG
+  - Grounding/RAG: 精度の高い回答, 組織固有の専門知識への対応, 不正確な回答の予防
   - On your data
   - LangChain
   - Semantic Kernel
@@ -494,7 +494,7 @@ P(Y | X)
   - Lang Chain
 - Embedding
   - Cognitive Search
-- Grounding / RAG
+- Grounding / RAG (精度の高い回答, 組織固有の専門知識への対応, 不正確な回答の予防)
   - On your data: Azure OpenAI
 - プラグイン実行
   - プラグイン開発
@@ -582,14 +582,15 @@ Copilot stack
     - ユーザの意図の汲み取り
     - 処理の実行計画
   - Grounding / RAG
+    - 精度の高い回答, 組織固有の専門知識への対応, 不正確な回答の予防
     - 生成AIシステムの出力の品質や正確性の向上
     - 外部データの参照プロセス
   - プラグイン実行管理
     - 実行計画に従って、プラグインの実行を管理するプロセス。
-- LangChain
-  - Azure Machine Learning
-    - プロンプトフロー
-      - GUIで処理のフローを構築できる
+  - LangChain
+    - Azure Machine Learning
+      - プロンプトフロー
+        - GUIで処理のフローを構築できる
 - Foundation Models
   - モデルのデプロイ場所
   - モデルのアクションの処理を担当
@@ -607,6 +608,190 @@ Copilot stack
       - 難易度高め
       - モデルによっては倫理観のないAIができてしまう
 
-## memo48: 自分はどんなことをしたいか？
-- 1. Azure OpenAI を導入する
-- 2. On Your Data を使える
+## memo48: Copilot Stack の選択
+- Azure AI Search(Cognitive Search)
+  - 概要: 自然言語による高精度な検索を可能にする「Embeding」に対応した、Azure上の高度な検索サービス
+  - 利点: 意味的な検索が可能
+  - 利用シーン: LLMの学習範囲外のデータについても回答を得たい場合(Groundingの一部)
+- Grounding / RAG(Retrieval Augmented Generation)
+  - 概要: Grounding の詳細
+  - 利点: 精度の高い回答, 組織固有の専門知識への対応, 不正確な回答の予防
+- On your data
+  - 概要: Azure OpenAI標準のGrounding機能
+  - 利点: コードを書かなくても利用可能
+- LangChain
+  - 概要: 様々な機能を連結して組み合わせて用いる
+  - 補足: Python用
+  - 利用シーン: Grounding / RAGシステムの実装（を簡単にする）
+- Semantic Kernel
+  - 概要: LangChain同様、LLMアプリ開発を効率化する。
+  - 違い: 備える機能が少ない代わりに、構造がシンプルで扱いやすい
+- Function Calling
+  - 概要: モデルが判断し、あらかじめ定義した関数を呼び出す機能
+  - レイヤ: Orchestration Layer のプロンプト処理の一部
+  - 補足: 仕様が少し複雑
+  - 補足: モデルは関数と引数を返すので、それを実行するのは開発者側のコードである
+- プロンプトフロー
+  - 概要: LLMアプリの開発サイクル全体を効率化する開発プラットフォーム
+- プラグイン開発
+  - 概要: 学習が不十分な内容についての問い合わせについて、プラグインを呼び出して、回答精度を上げる機能
+  - 理解: Cognitive Search などをまとめたgemみたいなものっぽい
+  - 補足: ChatGPTと同じ規格
+- ファインチューンング
+  - 概要: 既存のモデルを特定のタスクやデータに合わせて調整する手法
+- Azure AI Content Safety
+  - 概要: 有害なコンテンツを検出するなど、責任あるAIの実現を支援するサービス
+  - 補足: 暴力、自傷、性的、憎悪、ブロックリスト単語
+
+## memo49: 進め方
+- Azure AI Search ちょっとだけ
+- Grounding / RAG
+- On your data
+- 実装（４章に戻る）
+
+## memo50: Azure AI Search
+- cognitive search
+  - フルテキスト検索
+    - テキスト情報に対して検索を行う
+  - ベクトル検索
+    - 質問文と方向性の類似しているものを探す
+  - セマンティック検索
+    - 単語レベルではなく、文書レベルの意味で検索
+
+## memo51: Grounding / RAG
+- RAG
+  - 拡張性がある
+- On your data
+  - かんたん
+
+## memo52: RAG
+- アーキテクチャ
+  - UI
+  - Orchestration Layer
+    - Cognitive Search
+  - LLM
+- 処理
+  - 質問
+  - Orchestration Layer
+    - 質問の分析
+    - 外部データソースの検索
+    - プロンプト合成
+  - レスポンス
+  - 回答
+
+## memo53: Grounding
+- 組織独自のデータに基づいて回答する
+  - RAG + Cognitive Search / On your data
+- 最新のインターネット情報に基づいて回答
+  - RAG + Azure Bing Search
+- 前提
+  - Azure OpenAI のリソースをデプロイ済み(4.1)
+  - Azure OpenAI のモデルをAzure OpenAI Studio でデプロイ済み(4.3)
+  - Cognitive Search のリソースを構築済み(5.3)
+  - Cognitive Search のインデックスを作成済み
+  - Cognitive Search にドキュメント（データ）を登録済み
+- ライブラリ for python
+  - azure-search-documents
+  - openai
+- 実行するタスク（RAGと一緒じゃない？）
+  - Cognitive Search からユーザの質問に関連する情報を検索する
+  - 検索結果かあｒプロンプトを作成する
+  - Azure OpenAIのLLMに作成したプロンプトを送信する
+
+## memo54: On your data
+- 自由度とコストのトレードオフ
+  - On your data: no
+  - プロンプトフロー: low
+  - Cognitive Search: high
+- 検索に使うコンポーネント
+  - Cognitive Search
+- データソース
+  - Cognitive Search
+  - Blob Storage
+    - 最も簡単だが、英語のみ対応
+    - ストレージサービスの別料金がかかる
+- 検索オプションとプランはすべてBasic以上
+  - キーワード検索
+  - ベクトル検索
+  - ハイブリッド検索
+  - セマンティック検索
+  - セマンティックハイブリッド検索
+- On your data 対応の GPTモデル
+  - gpt3.5-turbo
+  - gpt3.5-turbo-16k
+  - gpt-4
+  - gpt-4-32k
+- REST API
+- 内部アーキテクチャ
+  - Azure OpenAI
+    - question, chat_history をコンテキストとして検索クエリを生成
+  - Cognitive Search
+    - ドキュメント検索
+      - "abc商事 設立"
+      - "何年目"
+    - sources 検索結果（チャンク分類済み上位３件分）
+      - abccorp-0.txt : 創立15年目です
+      - abccorp-15.txt: abc商事株式会社は創立15年目となります
+      - abccorp-30.txt: abc商事株式会社は2023年11月時点で、創立15周年を迎え、2021年東京本社が渋谷にオフィスをリニューアルしている
+  - Azure OpenAI
+    - sources, chat_history をオンテキストとして回答を生成
+    - 情報を統合して回答
+- 使用方法
+  - 本をみて
+- チャットの応答例
+  - あらかじめ
+    - 独自データ（Wordなど）をCognitive Searchに保存
+  - 実施
+    - 質問
+    - 検索
+    - 検索結果
+    - 回答
+- デプロイ
+  - Azure App Service
+  - Power Virtual Agents
+    - 制限あり
+  - REST API から利用可能っぽい
+
+## memo56: 環境構築の目次と選択
+- 4.1 Azure OpenAIの利用方法
+- 4.2 Azure OpenAI Studio
+- 4.3 OpenAI モデルのデプロイ
+- 4.4 プレイグラウンド
+- 4.5 オープンソースモデルのデプロイ
+
+4.1~4.3: ササッと読む
+4.4: 重要そう
+4.5: 不要
+
+## memo57: プレイグラウンドとは
+事前にデプロイしたAzure OpenAIの各種モデルのAPIをブラウザ上で試せるWeb UI環境。
+
+## memo58: トークン
+- Tokenizer
+  - token数を数えるサイト
+- GPT
+  - BPE(Byte-Pair-Encoding)を採用
+    - 長い単語はサブワードと呼ばれる部分文字列に分割
+    - 短い単語はそのまま
+    - 日本語や中国語などスペースのない言語でもトークンに分割可能
+    - 学習していない未知の単語にも対処できる
+- 例
+  - I often order a pizza topped with jalapenos.
+  - tokens: 12
+  - characters: 44
+  - [I, oftern, order, a, pizza, topped, with, j, al, ap, enos, .]
+  - [40, 3221, 1502, 257, ..., 省略,  13]
+- 各Tokenには、それぞれ一意のIDが割り当てられる
+- IDを使って、テキストをベクトルに変換する
+
+## memo59: Azure OpenAI の API
+- Chat Completion API
+- APIの認証方法（２通り）
+  - APIキー認証
+    - Azure OpenAI > リソース管理 > キーとエンドポイント
+      - key1, key2, endpoint
+  - Microsoft Entra ID 認証
+
+
+
+
