@@ -792,6 +792,6 @@ Copilot stack
       - key1, key2, endpoint
   - Microsoft Entra ID 認証
 
-
-
+## memo60: 構築
+- Azure OpenAI 利用申請
 
