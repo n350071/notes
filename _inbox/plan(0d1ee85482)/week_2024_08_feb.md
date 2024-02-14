@@ -9,8 +9,10 @@
 ### mon 19
 ### tue 20
 ### wed 21
+- cre: 12:00-13:00 DXPとwin-win打ち合わせ at FGN
 ### thu 22
 - lbe: 13:00-14:00 定例
+- lbe: Azure 予算チェック
 ### fri 23 ㊡
 ### sat 24
 ### sun 25
