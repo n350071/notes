@@ -10,6 +10,7 @@
 ### tue 20
 ### wed 21
 - cre: 12:00-13:00 DXPとwin-win打ち合わせ at FGN
+- lbe: AI講師
 ### thu 22
 - lbe: 13:00-14:00 定例
 - lbe: Azure 予算チェック
