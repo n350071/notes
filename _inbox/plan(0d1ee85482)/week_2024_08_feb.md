@@ -8,6 +8,7 @@
 ## schedule
 ### mon 19
 ### tue 20
+- bsp:
 ### wed 21
 - cre: 12:00-13:00 DXPとwin-win打ち合わせ at FGN
 - lbe: AI講師

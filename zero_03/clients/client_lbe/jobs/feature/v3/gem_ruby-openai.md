@@ -58,7 +58,7 @@ puts response.dig("choices", 0, "message", "content")
 response = client.chat(
     parameters: {
         model: "gpt-3.5-turbo", # Required.
-        messages: [{ role: "user", content: "「学研」と「Z会」と「くもん式」の特色と違いについて、まとめてください"}], # Required.
+        messages: [{ role: "user", content: "「ベネッセの進研ゼミ」と「Z会の通信講座」の評判の違いについて、インターネットの口コミをなんとなくまとめてください。最後に、どこから取得したデータなのかをあなたが参照したURLを表示してください。"}], # Required.
         temperature: 0.7,
     })
 
