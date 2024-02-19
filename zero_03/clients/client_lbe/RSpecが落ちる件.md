@@ -36,6 +36,24 @@
 
 
 
+## 原因
+不明
+
+## いつから？
+１月の途中から
+
+## どのコミットが原因？
+[Github Actions の Failure ](https://github.com/zeroichi-hacker/lbe/actions?query=is%3Afailure) で絞りこんでを眺めていると、 [このAction](https://github.com/zeroichi-hacker/lbe/actions/runs/7332586728)
+ が最初のエラー多発のようである。
+
+ブランチとしては、[get_kintone_team_employee](https://github.com/zeroichi-hacker/lbe/commits/feature/v2.0.3/get_kintone_team_employee/) です。
+
+プルリクエストは、 [#259](https://github.com/zeroichi-hacker/lbe/pull/259)。
+
+コミットはどれか不明。
+
+
+
 
 
 
