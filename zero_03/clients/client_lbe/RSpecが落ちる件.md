@@ -52,9 +52,18 @@
 
 コミットはどれか不明。
 
+### commit
+https://github.com/zeroichi-hacker/lbe/pull/259/commits/7551d719072ddc17b9f050ab6b17b1745567b813
+
+### spec files
+spec/models/manage/program_employee_spec.rb
+spec/models/values/manage/analytics/program_spec.rb
+
+(上記の２テストをコメントアウトしても、特に変わらず)
 
 
-
+## その他
+- bundle exec rspec だとエラーが起きない？
 
 
 
