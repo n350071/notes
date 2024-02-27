@@ -1,3 +1,7 @@
+# ランダムに失敗するテストを特定する bisectオプション
+bin/rspec --seed 1003 --bisect=verbose
+
+
 # run rspec
 bundel exec rspec spec/models/xxxx_spec.rb           ## specify specific file
 bundel exec rspec spec/models/xxxx_spec.rb -e status ## specify a test in specific file
