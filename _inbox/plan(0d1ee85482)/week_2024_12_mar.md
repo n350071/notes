@@ -11,6 +11,7 @@
 ### wed 20
 ### thu 21
 ### fri 22
+- zmi: 10:30-12:00 okdx_アンバサダー at SOIL
 ### sat 23
 ### sun 24
 
