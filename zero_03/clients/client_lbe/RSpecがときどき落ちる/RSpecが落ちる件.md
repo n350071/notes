@@ -194,3 +194,23 @@ rspec ./spec/models/props/manage/snapshot/client_spec.rb
 rspec ./spec/models/domains/leader_payments/salaries/separate_expenses_spec.rb
 rspec ./spec/models/manage/snapshot/program_employee_spec.rb
 
+
+
+## Randomized with seed 11007 のとき
+1503 examples, 3 failures, 40 pending
+
+Failed examples:
+
+rspec ./spec/forms/leader/programs/expenses/form_spec.rb:153 # Leader::Externals::Programs::Expenses::Form#update (異常系) (経費の状態がAcceptedになっているとき) エラーになり、申請が承認済なのが分かるエラーメッセージが取得できること
+rspec ./spec/forms/leader/programs/expenses/form_spec.rb:126 # Leader::Externals::Programs::Expenses::Form#update (異常系) (申請済みの経費(order: 1)のはずだが、idが存在しない) エラーになること
+rspec ./spec/models/domains/leader_payments/salaries/separate_expenses_spec.rb:77 # Domains::LeaderPayments::Salaries::SeparateExpenses#call 統合した経費データを分離したHashが取得できること
+
+Randomized with seed 11007
+
+
+✅ bin/rspec --seed 11007 spec/forms/leader/programs/expenses/form_spec.rb spec/models/domains/leader_payments/salaries/separate_expenses_spec.rb
+
+❌ bin/rspec --seed 11007
+1503 examples, 2 failures, 40 pending
+- spec/services/leaders/visa_info_update_notification_service_spec.rb
+- spec/models/domains/leader_payments/salaries/separate_expenses_spec.rb
