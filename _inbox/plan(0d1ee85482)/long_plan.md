@@ -16,6 +16,7 @@ week_2024_02
 ## May
 
 ## Jun
+- 津吹の結婚おめでとうzoom会
 
 ## Jul
 - rec: mizunoくんとの契約を更新する
