@@ -11,6 +11,11 @@ note_案件リスト(9da33d4cea).md
 - 2024_03
   - 小津::保育SNS for OZ Company 51b533dc61
 
+## ときどき、話をしたい相手
+- 伊藤さん（A-yoshi）：栄養士アプリ、ビジネス
+- 小津さん（OZ Company）：保育SNSのこと
+
+
 ## 補助金の案件
 - Choronを発注する
 
