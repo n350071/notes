@@ -7,7 +7,7 @@
 
 ## schedule
 ### mon 11
-- 10:00-12:00 ロジクラに集約して、ロジクラ - Next Engine のつなぎを行う
+- sun: 10:00-12:00 ロジクラに集約して、ロジクラ - Next Engine のつなぎを行う
 ### tue 12 with上村さん
 ### wed 13
 ### thu 14 with上村さん

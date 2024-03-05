@@ -7,6 +7,7 @@
 
 ## schedule
 ### mon 18
+- eshub, bsp: アラートチャンネルのミュート解除
 ### tue 19
 ### wed 20
 ### thu 21 with上村さん
