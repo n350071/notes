@@ -8,9 +8,10 @@
 ## schedule
 ### mon 11
 - sun: 10:00-12:00 ロジクラに集約して、ロジクラ - Next Engine のつなぎを行う
-### tue 12 with上村さん
+### tue 12 with上村さん(在宅勤務) if it's a Sunny day
 ### wed 13
-### thu 14 with上村さん
+- bsp: 10:30-11:30
+### thu 14 with上村さん(午前 9:00-12:00)
 ### fri 15
 ### sat 16
 ### sun 17

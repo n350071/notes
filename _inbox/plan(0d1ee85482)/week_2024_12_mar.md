@@ -10,7 +10,7 @@
 - eshub, bsp: アラートチャンネルのミュート解除
 ### tue 19
 ### wed 20
-### thu 21 with上村さん
+### thu 21 with上村さん(午前)
 ### fri 22 with上村さん
 - zmi: 10:30-12:00 okdx_アンバサダー at SOIL
 ### sat 23
