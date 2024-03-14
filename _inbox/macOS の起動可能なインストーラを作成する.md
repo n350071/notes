@@ -9,6 +9,8 @@ ishigaki0515naoki@gmail.com
 @345_5
 lOg@93780
 
+
+
 ## 起動ディスクの件
 ```sh
 csrutil disable

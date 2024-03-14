@@ -7,10 +7,10 @@
 
 ## schedule
 ### mon 18
-- eshub, bsp: アラートチャンネルのミュート解除
 ### tue 19
 ### wed 20
-### thu 21 with上村さん(午前)
+### thu 21
+- lbe: 13:00-14:00 定例 with 北さん、古賀さん、
 ### fri 22 with上村さん
 - zmi: 10:30-12:00 okdx_アンバサダー at SOIL
 ### sat 23
