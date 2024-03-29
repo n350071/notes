@@ -25,24 +25,27 @@
 - ✅zmi: 名刺やりなおし
 - ✅sun: キックオフの片付け(497f9edb62)
 ---
-- lmi: 髪を切る
 
 
 ### thu 28
-- 📌lbe: エラー系の作業 active_job(88ed316d85)
----
-- lbe: 13:00-14:00
-  - 定例会の曜日を月〜水に移動する
-  - これまでの開発元（どこ？）と比べて、コスパはどうだったか？
-  - https://us02web.zoom.us/j/87575741029?pwd=Wi9ScEN5b0pnenZkdktnU3hLRkFBQT09
-- 📌cre::onbord macの環境構築（ユーザ、セキュリティなど）
-- 📌cre::onbord macに開発環境の構築
-- cre: 上村さんと契約締結?
+- ✅lbe: active_job(88ed316d85)
+- ✅lbe: 13:00-14:00
+- ✅FGNのアンケート回答
+- ✅lmi: 子ども支援
 
 ### fri 29
+- ✅zmi: eshub, bsp: アラートチャンネルのミュート解除
+- lbe: 自動テストを追加する(88ed316d85)
 - wip: 13:00-14:00
-- zmi: 請求書対応
-- zmi: eshub, bsp: アラートチャンネルのミュート解除
+- kpt: 14:00-15:00
+- 📌zmi: 請求書対応
+---
+- 🔥cre::共通アカウントを作成する
+- 🔥cre::onbord macの環境構築（ユーザ、セキュリティなど）
+- 🔥cre::onbord macに開発環境の構築
+- 🔥lmi: テンプレート開発
+- 🔥lmi: 髪を切る
+- 📌lmi: テンプレート開発
 
 ### sat 30
 美和の誕生日だ！

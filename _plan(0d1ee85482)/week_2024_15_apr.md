@@ -7,6 +7,7 @@
 
 ## schedule
 ### mon 08
+- 13:00-14:00 LbE: 定例会
 ### tue 09
 ### wed 10
 ### thu 11
