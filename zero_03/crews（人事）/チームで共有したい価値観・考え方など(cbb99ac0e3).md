@@ -7,9 +7,13 @@
 
 ## React
 
+## Web
+- リーダブルコード
+- Webを支える技術
+- 徳丸本
+
 ## DevOps
 - アジャイルサムライ
 - スクラムブートキャンプ
-- リーダブルコード
 - [【翻訳】テスト駆動開発の定義](https://t-wada.hatenablog.jp/entry/canon-tdd-by-kent-beck)
 - book_LeanとDevOpsの科学

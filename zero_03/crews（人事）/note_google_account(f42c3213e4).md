@@ -1,6 +1,13 @@
 google_account(f42c3213e4)
 ---
 
+## 石垣
+```rb
+email = "ishigaki@zeroichi-hacker.com"
+pass = "pass_zero @#341_10"
+```
+
+
 ## 水野くん
 ```
 

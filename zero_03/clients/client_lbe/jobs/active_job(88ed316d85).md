@@ -19,13 +19,13 @@ active_job(88ed316d85)
 - ✅ApplicationCable::Connection で、認証を行う
 
 ### テストをちゃんとする
-- app/channels/application_cable/connection.rb
-- app/channels/ai_features_program_instructions_channel.rb
-- app/controllers/staff/ai_features/program_instructions_controller.rb
-- app/forms/staff/ai_features/program_instructions/form.rb
+- ✅app/channels/application_cable/connection.rb
+- ✅app/channels/ai_features_program_instructions_channel.rb
+- ✅app/controllers/staff/ai_features/program_instructions_controller.rb
+- 🟡app/forms/staff/ai_features/program_instructions/form.rb
   - load
   - dump
-- app/jobs/ai_features/program_instruction_create_job.rb
+- 📌app/jobs/ai_features/program_instruction_create_job.rb
 
-### TODO対応
-app/javascript/packs/views/staff/ai_features/program_instructions/new.tsx
+### TODO対応 ws://localhost:3000/cable でいいの？？
+📌app/javascript/packs/views/staff/ai_features/program_instructions/new.tsx

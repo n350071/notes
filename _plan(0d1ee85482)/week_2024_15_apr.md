@@ -8,6 +8,7 @@
 ## schedule
 ### mon 08
 - 13:00-14:00 LbE: 定例会
+  - XZ Util の対応の件
 ### tue 09
 ### wed 10
 ### thu 11

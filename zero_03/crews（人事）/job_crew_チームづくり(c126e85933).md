@@ -9,7 +9,7 @@ note_チームづくり(c126e85933).md
   - ✅Google Workspaceの設定（上村さん）
   - 📌Google Workspaceの設定（水野くん）
 - 共通アカウント
-  - 作成（`xxxxx@zeroichi-hacker.com`）
+  - 作成（`devops@zeroichi-hacker.com`）
   - ログイン管理（kibela, aws, GitHub, GPT4, ... ）
 - 外部向け
   - 名刺の作成（上村さん）
