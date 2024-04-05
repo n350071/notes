@@ -10,6 +10,7 @@
 ### tue 23
 ### wed 24
 ### thu 25
+- (仮)cli::okdx: 4/25（木）終日OK
 ### fri 26
 ### sat 27
 ### sun 28

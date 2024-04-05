@@ -49,27 +49,29 @@
 - ✅per: ベッドなどの設計
 
 ### thu 04
-
-- sun: アプリ開発の開始
-- bus: 毎月の月初の事業チェック
-- bus: ...
-- cho: choron の修正作業
-- lmi: 糸島市役所::騒音の件
-- lmi: 髪を切る
+- ✅bus: 毎月の月初の事業チェック
 ---
+
+### fri 05 at GarawayF
+- 🟡yel: 補助金の件を上村さんに進めてもらう & 報告を入れる
+- sun: アプリ開発の開始
+- zmi: mac(uemura)のアカウント uemura のパスワードを変更する
+- zmi: mizuno@zeroichi-hacker.com を作成する？
+- zmi: uemuraさんに、GitHub Copilot を入れる
+- zmi: ゼロイチハッカーのキックオフ（上村さん welcom）を考えたい
+- (skip)wip: 13:00-14:00 定例
+- zmi: 14:00-15:00 kpt
+---
+- lmi: 髪を切る
+- lmi: ボンバーマンを買いたい
+- lmi: 凛花ちゃんの「めいろドリル」を書いたい
+
+### sat 06
 - per: 実際に凛花ベッドのwood brace を作ろう（ x 4 本）
 - lmi: 雄陽の scrach を一緒に作る
 
-### fri 05 at GarawayF
-- yel: 補助金の件を上村さんに進めてもらう
-- zmi: mac(uemura)のアカウント uemura のパスワードを変更する
-- zmi: mizuno@zeroichi-hacker.com を作成する
-- zmi: ゼロイチハッカーのキックオフ（上村さん welcom）を考えたい
-- wip: 13:00-14:00 定例
-
-### sat 06
 ### sun 07
-
+- per: 尚紀と美和のベッドの木を切り出す
 
 
 
