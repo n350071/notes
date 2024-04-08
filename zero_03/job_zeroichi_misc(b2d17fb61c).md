@@ -2,9 +2,11 @@ job_zeroichi_misc(b2d17fb61c)
 ---
 
 
-
-## 4月以降
+- zmi: サービスガイドのアップグレード()
 - zmi::choron: アップグレード
 - zmi::choron: EC2をAmazon Linux 2023 にバージョンアップ依頼
+
+## いつかやる
+- kptシートを顧客にも適用する
 
 
