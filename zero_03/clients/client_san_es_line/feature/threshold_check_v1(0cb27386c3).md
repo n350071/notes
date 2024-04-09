@@ -16,7 +16,7 @@ threshold_check_v1(0cb27386c3)
 
 ## TODO
 - routes, controller
-  - GET /dashboard
+  - ✅GET /dashboard
   - GET /csv_import
   - GET /items
   - GET /items/shipment_change_request
