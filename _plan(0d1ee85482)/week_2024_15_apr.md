@@ -17,26 +17,34 @@
 - ✅lbe: 14:00-15:00 感想戦
 - ✅choron修正PR
 
-### tue 09 at GarawayF
-- san: threshold_check_v1(0cb27386c3)
+### tue 09
+- ✅san: threshold_check_v1(0cb27386c3)
+- ✅lmi: ドリル & ランニング
+
+### wed 10 at GarawayF
+- 上村さんのサポート
+  - ✅移動
+  - 対面でのフィードバック
+    - ✅上村さんの、メンタル確認
+    - ✅上村さんを、ねぎらう
+    - その他、Slackにメモしたこと
+  - 設定してあげる
+    - zmi: mac(uemura)のアカウント uemura のパスワードを変更する
+    - zmi: uemuraさんに、GitHub Copilot を入れる
+- san: ngrokの確認(with 上村さん)
+- san: 水野くんレビュ
 - lbe: websocketの件の対応準備
-- san: rok(ルフ)の画像を貼っておこう
+- cli: 倉増さんとの打ち合わせ予定調整
+- lbe: websocketの件の対応(22:00-23:00)
+
 ---
-- lmi: ドリル & ランニング
 - lmi: 仕事部屋の補修
 - lmi: 雄陽の scrach を一緒に作り直す
 - lmi: ボンバーマンを買いたい
 - per: 丸太用の作業台を一式を設計する
 
-### wed 10
-- 設定してあげる
-  - zmi: mac(uemura)のアカウント uemura のパスワードを変更する
-  - zmi: uemuraさんに、GitHub Copilot を入れる
-- 移動
-- あとで決める
-### thu 11
-- (仮)10:30 糸の森歯科
-- (仮)cli::okdx: 4/11（木）10:00〜15:00
+
+### thu 11 (会社のことを進めるDay)
 - kpt質問シートを作成する
 - 👑bus: 事業の勝ちパターンの不安な点(財務の動的平衡)について、説明と選択肢の準備をすること(until 4/12)
 - san: 契約書のテンプレートを送る
