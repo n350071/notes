@@ -12,7 +12,9 @@
 ### thu 23
 ### fri 24
 ### sat 25
+- (仮)sat 25: sal: OKDXのキャンプ
 ### sun 26
+- (仮)sun 26: sal: OKDXのキャンプ
 
 
 

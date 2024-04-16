@@ -76,15 +76,15 @@ https://github.com/zeroichi-hacker/ec2_scripts/blob/main/scripts/deploy.rb#L52
 - ✅対策のおおまかな方針
 - ✅原因の推定（ローカルで再現できないので、推定になる。nginxの修正が妥当だということが確認できればOK）
 - 🟡nginxの設定を修正
-  - 修正をfeatureブランチで行うこと
+  - 🔥修正をfeatureブランチで行うこと
     - ~/Github/zeroichi-hacker/web_server
       - confs/nginx.conf
     - [web_server](https://github.com/zeroichi-hacker/web_server)
-  - 影響範囲を確認
+  - ✅影響範囲を確認
 - ✅Lambdaのrestartスクリプトの確認 & 修正 → 修正不要
-- 作業手順書の作成（ロールバック手順も！）
-- 古賀さんと作業日程を調整する
+- 🟡作業手順書の作成（ロールバック手順も！）
+- ✅古賀さんと作業日程を調整する
 - リリースを行う
-
+- 報告する
 
 ## 気をつけること

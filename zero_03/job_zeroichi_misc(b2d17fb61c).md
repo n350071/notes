@@ -2,7 +2,6 @@ job_zeroichi_misc(b2d17fb61c)
 ---
 
 
-- zmi: サービスガイドのアップグレード()
 - zmi::choron: アップグレード
 - zmi::choron: EC2をAmazon Linux 2023 にバージョンアップ依頼
 
