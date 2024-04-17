@@ -22,6 +22,13 @@ websocketを本番サーバで利用可能にする(2f4d68d2ec)
 {"host":"020a7d9f7af0","application":"Semantic Logger","environment":"production","timestamp":"2024-04-01T14:23:38.608570Z","level":"info","level_index":2,"pid":1,"thread":"puma srv tp 005","named_tags":{"request_id":"026adf86-7c6f-4197-b9f7-85c91526226d","ip":"14.12.7.225","referer":"none"},"name":"ActionCable","message":"Finished \"/cable\"[non-WebSocket] for 14.12.7.225 at 2024-04-01 14:23:38 +0000"}
 ```
 
+### web_serverの設定後の本番環境のログ
+```log
+{"host":"020a7d9f7af0","application":"Semantic Logger","environment":"production","timestamp":"2024-04-16T13:46:17.132145Z","level":"info","level_index":2,"pid":1,"thread":"puma srv tp 004","named_tags":{"request_id":"8592d542-2606-449f-95bd-2bf1bd36ace8","ip":"14.12.7.225","referer":"none"},"name":"ActionCable","message":"Started GET \"/cable\" [WebSocket] for 14.12.7.225 at 2024-04-16 13:46:17 +0000"}
+{"host":"020a7d9f7af0","application":"Semantic Logger","environment":"production","timestamp":"2024-04-16T13:46:17.132182Z","level":"info","level_index":2,"pid":1,"thread":"puma srv tp 004","named_tags":{"request_id":"8592d542-2606-449f-95bd-2bf1bd36ace8","ip":"14.12.7.225","referer":"none"},"name":"ActionCable","message":"Successfully upgraded to WebSocket (REQUEST_METHOD: GET, HTTP_CONNECTION: Upgrade, HTTP_UPGRADE: websocket)"}
+```
+
+
 ### 調査
 #### Upgradeが空になる原因
 リバースプロキシまたはロードバランサーの設定問題: 本番環境では、多くの場合、アプリケーションの前にリバースプロキシ（Nginx、Apacheなど）やロードバランサーが配置されます。これらの中間層がWebSocketプロトコルのアップグレードリクエストを適切に処理していない、または必要なヘッダーを削除してしまっている可能性があります。特に、ConnectionやUpgradeヘッダーを適切に転送する設定が必要です。
@@ -75,16 +82,16 @@ https://github.com/zeroichi-hacker/ec2_scripts/blob/main/scripts/deploy.rb#L52
 - ✅状況確認
 - ✅対策のおおまかな方針
 - ✅原因の推定（ローカルで再現できないので、推定になる。nginxの修正が妥当だということが確認できればOK）
-- 🟡nginxの設定を修正
-  - 🔥修正をfeatureブランチで行うこと
+- ✅nginxの設定を修正
+  - ✅修正をfeatureブランチで行うこと
     - ~/Github/zeroichi-hacker/web_server
       - confs/nginx.conf
     - [web_server](https://github.com/zeroichi-hacker/web_server)
   - ✅影響範囲を確認
 - ✅Lambdaのrestartスクリプトの確認 & 修正 → 修正不要
-- 🟡作業手順書の作成（ロールバック手順も！）
+- ✅作業手順書の作成（ロールバック手順も！）
 - ✅古賀さんと作業日程を調整する
-- リリースを行う
-- 報告する
+- ✅リリースを行う
+- ✅報告する
 
 ## 気をつけること
