@@ -6,6 +6,7 @@
 ## backlog
 ## schedule
 ### mon 29
+- zmi: 11:00-11:30 DSM::週の確認
 
 ### tue 30
 
