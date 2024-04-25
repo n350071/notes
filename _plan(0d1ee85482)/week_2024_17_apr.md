@@ -13,8 +13,8 @@ _買い物リスト
 - bus: 事業の勝ちパターンの不安な点(財務の動的平衡)について、説明資料を作ること
 - bus: 事業の勝ちパターンの不安な点(財務の動的平衡)について、説明する
 - eshub: 8月からの契約について、0.5でお願いするか？について水野くんと話し合う
-- 🟡tea: 短期目線::アリストテレス研究の効果的なチーム(d574654177)
-
+- tea: 短期目線::アリストテレス研究の効果的なチーム(d574654177)
+- tea: 長期目線::DevOpsチームのための質問シート(9058b78725)
 
 ## schedule
 
@@ -38,30 +38,44 @@ _買い物リスト
 - ✅zmi: 夜の作業禁止!!
 
 ### wed 24
-- 🟡mar: 倉増SWB_2024-05-18準備(1ac5a36241)::P/PCバランスChainの樹形図を描きはじめる
-- 🟡san: stock_thresholds_setting(37a2a3c6bd)::モデル設計
-- san: stock_thresholds_setting(37a2a3c6bd)::モデル作成
-- lbe: 15:00-16:00 定例会
-- lbe: lbeの黄色信号の対処(09f3b105c6)::チェックする
+- ✅mar: 倉増SWB_2024-05-18準備(1ac5a36241)::P/PCバランスChainの樹形図を描きはじめる
+- ✅lbe: 15:00-16:00 定例会
+- ✅zmi: 16:00-17:00 夕会
+- ✅lbe: lbeの黄色信号の対処(09f3b105c6)::チェックする
 - ~~san: 水野くんが相手を知るための会話時間を計画する(31675704d6)~~
-- zmi: 夜の作業禁止!!
+- ✅zmi: 夜の作業禁止!!
 
 ### thu 25
-- cli::okdx: 10:30-12:00
-- cli::okdx: 気になる人: 上野正貴 @ 株式会社ネクステップ
-- tea: 長期目線::DevOpsチームのための質問シート(9058b78725)
-- yunoさん対応？
+- 🟡丸太の墨付けと加工する道具の研究(芯墨、水墨)
+---
+- ✅cli::okdx: 10:30-12:00
+- ✅cli::okdx: 12:00-13:00 熊本さんとランチ
+- 🔥bsp: 水野くんに見積もり相談する
+- ✅san: stock_thresholds_setting(37a2a3c6bd)::モデル設計
+- 🔥san: 定例会のアジェンダ準備
+- 🔥san: stock_thresholds_setting(37a2a3c6bd)::モデル作成
+- 🔥san: stock_thresholds_setting(37a2a3c6bd)::ActiveAdminでデータを入れる
+- 🔥san: stock_thresholds_setting(37a2a3c6bd)::R::表示
+- 💪san: stock_thresholds_setting(37a2a3c6bd)::U::変更
+- 💪san: stock_thresholds_setting(37a2a3c6bd)::U::変更_フォーカス外れただけで更新
 - zmi: 夜の作業禁止!!
 
+
 ### fri 26
-- san: 10:00-12:00 定例会？
-- 13:05-14:00
+- san: 10:00-12:00 定例会
+- lbe: lbeの黄色信号の対処(09f3b105c6)::チェックする
+- mar: 倉増SWB_2024-05-18準備(1ac5a36241)::途中確認(スライドをおおよそ作る)
+- 13:05-14:00 wiplus
 - 17:00 翌週の業務確認
   - week_2024_17_apr.md
   - month_2024_04_apr(bafc4da921)
+- cli::zmi: テント買う
+- lmi: 騒音問題(490c1ccf8d)::みねさんに資料を渡す
 - zmi: 夜の作業禁止!!
 
 ### sat 27
+北九州の公園に行く？
+
 ### sun 28
 
 

@@ -5,13 +5,8 @@ stock_thresholds_setting(37a2a3c6bd)
 在庫のしきい値を、SKU毎 x 倉庫毎 に設定できるようにすること
 
 ## TODO
-- 🟡モデルの名前を設計する
-  - MIROで設計する
+- ✅モデルの名前を設計する
 - モデルを作成する
-  - 代表商品(BaseItem)
-  - SKU商品(SkuItem)
-  - 倉庫マスタ(Warehouse)
-  - SKU倉庫(SkuItemWarehouse)
 - ActiveAdminでデータを入れる
 - /sku_products/stock_thresholds の画面
   - 基本
@@ -23,19 +18,17 @@ stock_thresholds_setting(37a2a3c6bd)
     - U::変更: フォーカスが離れただけで、DBのデータを更新する
 
 ## モデルの設計について
-### 名前空間
-在庫管理という文脈で使うのだから、頭には、
-
-- Stocks::
-- Inventories::
-
-A: ...のような名前空間がついていたほうがいいのか？
-B: それとも、わからないのだから、名前空間は切らないほうが良いのか？
-C: あるいは、どうせ変わっていくのだから、コードネームにするのが良いのか？
-
-C案は、実質的に `class A001ECA::BaseItem < ApplicationRecord` のような意味不明な名前空間になりそうなので、
-これってアンチパターンじゃない？とも思う。
-
-むーん。。。
-
-いまはきらんくても？
+### 名前付け
+- 代表商品
+  - SguProduct
+  - 説明
+    - Stock Group Unit Product
+    - Product: 工場などで製造されたもの製品
+    - item: 数えられる商品
+- 個別商品
+  - SkuProduct
+- 倉庫
+  - Warehouse
+  - 説明
+    - 発送するための商品を保管したり管理する場所
+    - Storage: 安全のための静的な保管庫
