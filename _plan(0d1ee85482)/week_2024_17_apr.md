@@ -50,31 +50,49 @@ _買い物リスト
 ---
 - ✅cli::okdx: 10:30-12:00
 - ✅cli::okdx: 12:00-13:00 熊本さんとランチ
-- 🔥bsp: 水野くんに見積もり相談する
 - ✅san: stock_thresholds_setting(37a2a3c6bd)::モデル設計
-- 🔥san: 定例会のアジェンダ準備
-- 🔥san: stock_thresholds_setting(37a2a3c6bd)::モデル作成
-- 🔥san: stock_thresholds_setting(37a2a3c6bd)::ActiveAdminでデータを入れる
-- 🔥san: stock_thresholds_setting(37a2a3c6bd)::R::表示
-- 💪san: stock_thresholds_setting(37a2a3c6bd)::U::変更
-- 💪san: stock_thresholds_setting(37a2a3c6bd)::U::変更_フォーカス外れただけで更新
-- zmi: 夜の作業禁止!!
-
+- ✅san: 契約の件の回答
+- ✅bsp: 水野くんに見積もり相談する
+- ✅zmi: 夜の作業禁止!!
 
 ### fri 26
-- san: 10:00-12:00 定例会
-- lbe: lbeの黄色信号の対処(09f3b105c6)::チェックする
-- mar: 倉増SWB_2024-05-18準備(1ac5a36241)::途中確認(スライドをおおよそ作る)
-- 13:05-14:00 wiplus
-- 17:00 翌週の業務確認
+- ✅san: stock_thresholds_setting(37a2a3c6bd)::モデル作成
+- ✅san: stock_thresholds_setting(37a2a3c6bd)::ActiveAdminでデータを入れる
+- ✅san: stock_thresholds_setting(37a2a3c6bd)::R::表示
+- ✅san: ngrokで接続しておく
+- ✅san: 定例会のアジェンダ準備
+- ✅san: 10:15-12:00 定例会
+- san: 定例会の後片付け
+- zmi: 13:00-14:00 kpt
+- 雑多なこと 14:00-15:00
+  - san: 契約書をGMOサインで送る
+  - lbe: lbeの黄色信号の対処(09f3b105c6)::チェックする（作業のヌケモレの続き）
+  - cli::OKDX: 入江さんのスモールサン確認
+  - cli::zmi: テント買う
+  - lmi: 火の鳥を買う
+  - mar: 倉増SWB_2024-05-18準備(1ac5a36241)::途中確認(スライドをおおよそ作る)
+  - cli::smart悠乃さん日程調整
+  - 翌週の業務確認
+- 15:00-16:30 wiplus
+- 16:30-17:00 翌週の業務確認
   - week_2024_17_apr.md
   - month_2024_04_apr(bafc4da921)
-- cli::zmi: テント買う
 - lmi: 騒音問題(490c1ccf8d)::みねさんに資料を渡す
+- 夕会: 17:00-18:00
+  - 5/10Fri 雑談会しよっか?
+  - 熊本さんがだいぶ心配していた
+  - 受け取った資料に目を通すこと、tryに追加しました！ -> そんなことまで指摘しないといけないのか...
+  - ダメージは0です -> ダメージはございません。、どうして語尾の問題だと思った？しかも、よくない方向に。
+  - 勉強は大丈夫？...とこちらから聞いているようでは、心配だよ
+  - saneslineへの見学をしたのはわかったけど、その分、なにを差し出すことにしたのかな？セルフマネジメントよろしく頼むよ。
 - zmi: 夜の作業禁止!!
 
 ### sat 27
-北九州の公園に行く？
+- 響灘グリーンパーク
+  - カート
+    - ミニテント
+    - ランチセット
+    - ピクニックシート
 
 ### sun 28
 
