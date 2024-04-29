@@ -7,6 +7,7 @@
 
 ## schedule
 ### mon 06
+- zmi: 11:00-11:30 DSM::週の確認
 
 ### tue 07
 
@@ -14,6 +15,9 @@
 
 ### thu 09
 ### fri 10
+- san
+- wip
+- 産の森
 
 ### sat 11
 ### sun 12
