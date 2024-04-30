@@ -11,6 +11,7 @@ job_permaculture(40f6d98db3)
 
 ## ver.2024.0: 事前作業
 - ✅per: 丸太のウネウネの影響を受けない墨付けを研究する
+- per: Timber Frame Tenon Jigs
 - per: 新しい作業台を制作する
 - per: 継ぎ手テンプレートの作成（dBase用）
 - per: 木材トレーラーの作成
