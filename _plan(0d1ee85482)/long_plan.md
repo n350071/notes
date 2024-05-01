@@ -15,6 +15,7 @@ week_2024_02
 ## May
 - Fri 18: 千葉のばばちゃん来る
 - Sat 19: 千葉のばばちゃん来る
+- pixcel8aを買う
 - sat 25: sal: OKDXのキャンプ
 - sun 26: sal: OKDXのキャンプ
 
