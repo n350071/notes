@@ -32,33 +32,26 @@ _買い物リスト
 
 
 ### wed 01
-- ⛔️lmi: 雄陽の自転車のサイズ確認
-- ⛔️lmi: 火の鳥の支払い
-- ⛔️lmi: 騒音問題(490c1ccf8d)::みねさんに資料を届ける
----
+- ✅lmi: 雄陽の自転車のサイズ確認
+- ✅lmi: 火の鳥の支払い
 - ✅acc: 請求書 LbE
 - ✅san: はじめる連絡
 - ✅lbe: 13:00-14:00 上村さんに注文::mtg中に議事録を完成させて、作業について合意を得ること
-- lbe: 13:00-14:00 定例会
-- lbe: 14:00-15:00 経理の作業確認
-- bsp: 豊田さんにメッセージする。たぶん、これでいい。
-- bsp: 契約の電話を豊田さんとしよう
-  - 結論: 「営業」兼「おこずかい」
-  - 豊田さんと一緒に、エコアースさん・そして日税さんに営業をしていると思っている。
-  - ただし、やはり作業量はあるので、契約を結びたい。
-  - 普段から、スポットでやることはないけれど、今回は特別に「10~30万の範囲内で、単価 x 時間」で対応したい。
-- san: AWSの作業
-  - AWSサーバを契約する devops@zeroichi-hacker.com or alternate@zeroichi-hacker.com
-  - rootユーザのMFAなし
-  - IAMユーザ作る san-prod-xxx
-  - ドメイン買う sanesline.com
-- 🟡mar: 倉増SWB_2024-05-18準備(1ac5a36241)::下書き
-- zmi: https://github.com/zeroichi-hacker/password_convert_ruby にREADMEを修正しよう
-  - Let's Get Started !!
-  - 引数がないときは、ramdam生成ができるといいよね
-- zmi: 夜の作業禁止!!
+- ✅bsp: 豊田さんにメッセージする。
+- ✅lbe: 13:00-14:00 定例会
+- ✅lbe: 14:00-15:00 経理の作業確認
+- ✅san: AWSの作業
+  - ✅AWSサーバを契約する devops@zeroichi-hacker.com or demoservice@zeroichi-hacker.com
+  - ✅rootユーザのMFAなし
+  - ✅IAMユーザ作る san-prod-xxx
+  - ✅ドメイン買う sanesline.com
+  - ✅作業報告
+- ✅zmi: 夜の作業禁止!!
 
 ### thu 02
+- ⛔️lmi: 騒音問題(490c1ccf8d)::みねさんに資料を届ける
+- san: 終了連絡
+- mar: 倉増SWB_2024-05-18準備(1ac5a36241)::下書き
 - zmi: 夜の作業禁止!!
 
 ### fri 03
@@ -70,3 +63,9 @@ _買い物リスト
 
 ### sat 04
 ### sun 05
+
+---
+
+- zmi: https://github.com/zeroichi-hacker/password_convert_ruby にREADMEを修正しよう
+  - Let's Get Started !!
+  - 引数がないときは、ramdam生成ができるといいよね
