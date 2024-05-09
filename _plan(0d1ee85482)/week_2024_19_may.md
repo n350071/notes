@@ -30,13 +30,18 @@
 ### wed 08
 - ✅cli::kur: 15:00-17:00 相談の準備(a49aa9dfc0)
 - ✅wip: 掲載用の写真を送る（元画像）
-- mar: 倉増SWB_2024-05-18準備(1ac5a36241)::keynote作成
-- san: stock_thresholds_setting2(cda1495d2c)
-- lbe: 13:00-14:00 定例会
-- 雑談会の連絡
+- ✅lbe: 13:00-14:00 定例会
+- ✅mar: 倉増SWB_2024-05-18準備(1ac5a36241)::keynote作成
+- ✅雑談会の連絡
+- ✅【5月20日開催】FGN Special Members Meetupのご招待
+- ✅夕会
+
 
 ### thu 09
-- zmi: 11:00-11:30 DSM::週の確認
+- ✅tea: note_上村さんの育成メモ(86648bb2dd)
+- ✅lbe: Gitの問題を解決してやろう
+- ✅mar: 倉増SWB_2024-05-18準備(1ac5a36241)::エレベーターピッチをレビュ
+- san: stock_thresholds_setting2(cda1495d2c)
 - cli::kur: 21:30-23:30 関さんの相談(a49aa9dfc0)
 
 ### fri 10
@@ -45,6 +50,7 @@
   - 日程を11:00-12:00に修正したい
 - 雑談会の連絡
 - wip
+- tea: note_上村さんの育成メモ(86648bb2dd)
 - 産の森
 - 16:30-17:00 翌週の業務確認
   - week_2024_20
