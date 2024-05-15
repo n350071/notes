@@ -8,6 +8,8 @@
 ## schedule
 ### mon 20
 ### tue 21
+- bus: 財務の動的平衡について、相談する(5fa3dea744)
+- wiplusの件
 ### wed 22
 ### thu 23
 ### fri 24
