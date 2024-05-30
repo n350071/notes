@@ -7,6 +7,7 @@
 
 ## schedule
 ### mon 03
+- lbe: フィードバック一覧を作る
 ### tue 04
 ### wed 05
 ### thu 06
