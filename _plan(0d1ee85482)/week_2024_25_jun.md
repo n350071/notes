@@ -7,6 +7,7 @@
 
 ## schedule
 ### mon 17
+- zmi: ７月の契約書を作る（san: X月度を消す）
 ### tue 18
 ### wed 19
 ### thu 20
