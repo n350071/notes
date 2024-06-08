@@ -4,9 +4,7 @@ job_marketing(dad95a8db0)
 - 🔥mar: そもそも、TODOリストを整理する
 
 ---
-- mar::DX:（５月までに）テントなどキャンプセットを中古で揃える
-- mar: DevOpsの本を読む
-- mar: DevOpsをテーマに、経営者向けの勉強会を企画する？（with 入江さん、熊本さん）
+- mar: DevOpsをテーマに、経営者向けの勉強会を企画する（with 入江さん、熊本さん）
 
 
 ---
