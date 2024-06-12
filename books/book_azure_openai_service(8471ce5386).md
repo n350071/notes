@@ -795,3 +795,11 @@ Copilot stack
 ## memo60: 構築
 - Azure OpenAI 利用申請
 
+
+
+
+- Grounding / RAG(Retrieval Augmented Generation)
+- LangChain
+  - 概要: 様々な機能を連結して組み合わせて用いる
+  - 補足: Python用
+  - 利用シーン: Grounding / RAGシステムの実装（を簡単にする）
