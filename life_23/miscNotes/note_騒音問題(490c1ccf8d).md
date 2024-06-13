@@ -13,6 +13,7 @@
 ## 資料
 - [環境省-騒音規制法](https://www.env.go.jp/content/000190185.pdf)
 - [峰さんに渡したもの](https://docs.google.com/document/d/1Kl3TdrkXemSsqc9cWvv-bc63JTZ6mupv6w7rgbgcktc/edit#heading=h.4j84rs41lrft)
+- [資料ver2](https://docs.google.com/document/d/1U6LkEyrNVsZ8sV05AtQBmxMUv7NhkYESOKEfRM318Oc/edit)
 
 ## 状況
 時報が鳴っている間は、大声で話しても会話ができない。
