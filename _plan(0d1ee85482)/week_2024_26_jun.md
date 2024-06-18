@@ -4,6 +4,7 @@
 ---
 
 ## backlog
+- 土井・津吹
 
 ## schedule
 ### mon 24
