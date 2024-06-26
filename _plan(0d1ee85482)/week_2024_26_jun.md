@@ -9,24 +9,34 @@
 
 ## schedule
 ### mon 24
-- 🔥峯さんに反対意見と、応援してくれた人の名前を確認する
 - 🔥bus: 財務の動的平衡の資料作成(5fa3dea744)::結論まとめ
 - 🔥bus: 6~9月の計画(a4ff94cf4a)
 - 🔥bus: 戦略を整理する
-- FGN meetup の資料待ち(権堂さん)
-- cli::okdx::アンバサダー紹介文 https://form.run/@nishiyori-RJN4lW1J5eEgEaSUtsYo
-- san: 作業内容の確認とスケジュール化
-- san: 開発
-- draft_水野くんが来る日の予定調整(4d72303fc7)
-- yel: 資料のタイトルを「デモ開発前の認識合わせ会」に変更する
 ---
-- ~~cli::YeLL: 【MVPの進め方の相談をしたい、FtoFで】の件~~
-- ~~cli::YeLL: キックオフの前の事前説明/作戦会議 if needed~~
+- ✅FGN meetup の資料待ち(境さん, 権堂さん)::確認電話
+- ✅yel: 資料のタイトルを「デモ開発前の認識合わせ会」に変更する
+- ✅draft_水野くんが来る日の予定調整(4d72303fc7)
 
 ### tue 25
-- BSP請求書の送付
+- ✅BSP請求書の送付
+- san: 開発
+- 峯さんに反対意見と、応援してくれた人の名前を確認する
+
+
 ### wed 26
-- 21:00-23:00 土井・津吹
+- san: 補助金の見積書作成
+  - たたき台を作る
+  - たたき台を確認してもらいつつ、改めて、補助金を使う場合の副作用についてご理解いただき、内容について一緒に考える
+  - 内容を書く
+  - 最終確認
+- LbE: 定例会 13:00-14:00 上村さんに移譲した
+- misk:
+  - 佐賀: 日程調整 & 謝罪
+  - FGN: メールのお礼返信
+  - cli::okdx::アンバサダー紹介文 https://form.run/@nishiyori-RJN4lW1J5eEgEaSUtsYo
+  - FGN meetup の資料待ち
+
+
 
 ### thu 27
 - GitHub 2 Factor for devops@zeroichi-hacker.com
