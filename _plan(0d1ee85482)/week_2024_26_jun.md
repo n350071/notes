@@ -19,34 +19,30 @@
 
 ### tue 25
 - ✅BSP請求書の送付
-- san: 開発
-- 峯さんに反対意見と、応援してくれた人の名前を確認する
-
+- ✅san: 開発
 
 ### wed 26
-- san: 補助金の見積書作成
-  - たたき台を作る
-  - たたき台を確認してもらいつつ、改めて、補助金を使う場合の副作用についてご理解いただき、内容について一緒に考える
-  - 内容を書く
-  - 最終確認
-- LbE: 定例会 13:00-14:00 上村さんに移譲した
-- misk:
-  - 佐賀: 日程調整 & 謝罪
-  - FGN: メールのお礼返信
-  - cli::okdx::アンバサダー紹介文 https://form.run/@nishiyori-RJN4lW1J5eEgEaSUtsYo
-  - FGN meetup の資料待ち
-
-
+- ✅san: 補助金の見積書作成
+- ✅LbE: 定例会 13:00-14:00
+- ✅misk:
+  - ✅cli::okdx::アンバサダー紹介文 https://form.run/@nishiyori-RJN4lW1J5eEgEaSUtsYo
+  - ✅FGN meetup の資料待ち
 
 ### thu 27
-- GitHub 2 Factor for devops@zeroichi-hacker.com
-- GitHub リカバリコードのダウンロード(Please download your two-factor recovery codes)
-- 早めに行って、坂本さんと雑談したい気もする...
-- zmi: 上村さんのバックアップ相談（SRP5FのISIT入り口にある内線で坂本を呼び出す）
-- cli::okdx: アンバサダー会議
-- お話を聞く時間
+- misks
+  - 佐賀: 日程調整
+  - cli::san ミーティングのスキップ依頼（ほとんど進められていない + 土日に復旧させたい旨）
+  - cli::okdx: アンバサダー会議::オンライン参加の調整
+  - zmi: 上村さんのバックアップ相談（SRP5FのISIT入り口にある内線で坂本を呼び出す）::オンラインへの調整
+  - cli::fgn: meetup 参加確認
+  - "FGN_支援1.png" を確認する
+  - GitHub 2 Factor for devops@zeroichi-hacker.com
+  - GitHub リカバリコードのダウンロード(Please download your two-factor recovery codes)
+  - 水野くんの名刺作りたいな（来るまでに）
 
 ### fri 28
+
+
 ### sat 29
 ### sun 30
 
