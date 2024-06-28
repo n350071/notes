@@ -2,7 +2,6 @@
 - plan(0d1ee85482)
 - jobs(06268598f8)
 - month_2024_04_apr(bafc4da921)
-- _買い物リスト(9e1f484b66)
 ---
 
 ## backlog
