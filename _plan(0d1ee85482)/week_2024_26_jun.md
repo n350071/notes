@@ -30,22 +30,43 @@
 
 ### thu 27
 - misks
-  - 佐賀: 日程調整
-  - cli::san ミーティングのスキップ依頼（ほとんど進められていない + 土日に復旧させたい旨）
-  - cli::okdx: アンバサダー会議::オンライン参加の調整
-  - zmi: 上村さんのバックアップ相談（SRP5FのISIT入り口にある内線で坂本を呼び出す）::オンラインへの調整
-  - cli::fgn: meetup 参加確認
+  - ✅佐賀: 日程調整
+  - ✅cli::san ミーティングのスキップ依頼（ほとんど進められていない + 土日に復旧させたい旨）
+  - ✅cli::fgn: meetup 参加確認
   - "FGN_支援1.png" を確認する
-  - GitHub 2 Factor for devops@zeroichi-hacker.com
-  - GitHub リカバリコードのダウンロード(Please download your two-factor recovery codes)
   - 水野くんの名刺作りたいな（来るまでに）
+- ✅cli::okdx: アンバサダー会議::オンライン参加の調整
+- ✅zmi: 上村さんのバックアップ相談（SRP5FのISIT入り口にある内線で坂本を呼び出す）::オンラインへの調整
 
 ### fri 28
+- ✅佐賀スマートにメール遅れたか？確認
+- ７月以降のweek noteを作る
+- GitHub 2 Factor for devops@zeroichi-hacker.com
+- san: 一定期間（３０日）で過去のインポートを消す
+- san: 📌stock_syncなどプロトタイプはごみになったので掃除
+- san: 🔥実在庫の一覧画面
+- san: しきい値設定
+- lbe: slack incoming webhook 直す
+- lbe: GVSのAnswerにある改善してほしい(defualt) のスペルが間違っていたのでdefaultに修正する
+- lbe: 「すべてのプロンプトをクリアする」で、画面の右側のAIからの回答を消したい
+- lbe: 「プロセス1-5までがわかる概略図」と「各プロセスでの概略図」をアコーディオンで表示する
+- zmi: yuno
+- cli::okdx: アンバサダー::経営者向け勉強会の企画のSlack（入江さん・熊本さん）
+- cli::okdx: 地域の情シス
+
 
 
 ### sat 29
 ### sun 30
 
+---
+## 今月の１冊
+- note_本を読む方法(b12cfb1c1d)
 
 
+## mon 1
+入江さん用に、スウェーデントーチつくってあげたいな
+
+## tue 2
+佐賀スマート化センター 14:00-15:00
 
