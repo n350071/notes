@@ -1,21 +1,66 @@
 
 - plan(0d1ee85482)
 - jobs(06268598f8)
+- month_2024_07_jul(75eb24a627)
 ---
 
-## backlog
+
+## 目標(月間)
+- 読書習慣を復活させる（学習が足りない）(b12cfb1c1d)
+- 毎朝の運動（よく眠るため）
+- オフィス環境を整える（動かない姿勢）（分割キーボード）
+
+## 目標(今週)
+### cli job_client(6aaf703720)
+#### san
+- san: 実在庫の一覧画面（商品マスタをパクって、数を出すだけ）
+- san: しきい値設定
+#### lbe
+- lbe: slack incoming webhook 直す
+- lbe: GVSのAnswerにある改善してほしい(defualt) のスペルが間違っていたのでdefaultに修正する
+- lbe: 「すべてのプロンプトをクリアする」で、画面の右側のAIからの回答を消したい
+- lbe: 「プロセス1-5までがわかる概略図」と「各プロセスでの概略図」をアコーディオンで表示する
+### mar job_marketing(dad95a8db0)
+### acc job_accounting(2cc25c748f)
+### bus job_business(79803790f4)
+- zer::bus: 財務の動的平衡の資料作成(5fa3dea744)::結論まとめ
+- zer::bus: 6~9月の計画(a4ff94cf4a)
+- zer::bus: 戦略を整理する
+### tea job_team(c126e85933)
+- zer::tea 上村さん７月契約書（問題なければ締結）
+- zer::tea 水野くんとの契約書
+- zer::tea 水野くんの名刺作成
+## lmi job_life_misc(24d24447fe)
+## per job_permaculture(40f6d98db3)
 
 
+---
 ## schedule
 ## mon 1
+- lbe: 請求書
+- san: 請求書
+- zer::tea 上村さん７月契約書（問題なければ締結）
+- zer::acc 美和の確認待ち
+- lbe: 4hours
+- san: 2hours
+- cli::見込み:yel: 14:00-15:00 demo認識会
 
 ## tue 2
-佐賀スマート化センター 14:00-15:00
+- san: 4hours
+- cli::探索:佐賀スマート化センター 14:00-15:00
+- lmi: 子供のお迎え 15:15-16:15
 
-## mon 1
-## tue 2
 ## wed 3
+- cli::lbe: 13:00-14:00 定例会
+- cli::探索: fgn申し込みキャンセル
+
 ## thu 4
+
+
 ## fri 5
+- cli::san: 11:00-12:00 定例会
+- cli::wip: 13:00-14:00 定例会
+- tea::kpt: 14:00-15:00 KPT
+
 ## sat 6
 ## sun 7
