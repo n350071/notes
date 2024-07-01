@@ -21,6 +21,7 @@
 - lbe: 「すべてのプロンプトをクリアする」で、画面の右側のAIからの回答を消したい
 - lbe: 「プロセス1-5までがわかる概略図」と「各プロセスでの概略図」をアコーディオンで表示する
 ### mar job_marketing(dad95a8db0)
+- mar::cli: ikk勉強会(22b6bc3816)::キックオフ
 ### acc job_accounting(2cc25c748f)
 ### bus job_business(79803790f4)
 - zer::bus: 財務の動的平衡の資料作成(5fa3dea744)::結論まとめ
@@ -37,13 +38,16 @@
 ---
 ## schedule
 ## mon 1
+- lmi: 市役所に電話しておく
 - lbe: 請求書
 - san: 請求書
 - zer::tea 上村さん７月契約書（問題なければ締結）
 - zer::acc 美和の確認待ち
 - lbe: 4hours
 - san: 2hours
-- cli::見込み:yel: 14:00-15:00 demo認識会
+- ⛔️cli::見込み:yel: 14:00-15:00 demo認識会
+- cli::見込み:yel: demo認識会のリスケ
+- zmi: 生活習慣病予防健診の日程調整
 
 ## tue 2
 - san: 4hours
