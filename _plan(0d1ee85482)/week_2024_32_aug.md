@@ -8,6 +8,8 @@
 
 ## schedule
 ## mon 5
+- zer::tea: ７月度の「稼働と分配」の確定会議を開く（8/5頃）
+
 ## tue 6
 ## wed 7
 ## thu 8
