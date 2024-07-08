@@ -1,11 +1,21 @@
-note_分割キーボード選び(9fc9c3ac9c)
+note_keyball61(9fc9c3ac9c)
 ---
 
-## 参考
+## Remap
+### 考え方
+### Layers
+### Remapする際に考慮したいこと
+- ↑←↓→について、肘を動かさないといけない
+- トラックボール
+  - ドラッグ
+  - スピード
+
+
+## 選ぶ際の参考サイト
 https://green-keys.info/why-recommend-split-keyboard/#index_id3
 
 
-## keyball 61
+## 購入〜組み立て
 ### 販売サイト
 https://shirogane-lab.net/items/64b8ed191435c1002bc4cd30
 https://shop.yushakobo.jp/products/5358?_pos=9&_fid=90525edad&_ss=c
