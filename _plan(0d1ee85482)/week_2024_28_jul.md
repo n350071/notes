@@ -14,21 +14,11 @@
 ### cli job_client(6aaf703720)
 #### san
 #### lbe
-- 🅿️lbe: 7/10以外は、福岡にいるっぽいとのこと（yukoさんに返信せよ）
-- ⛔️「プロセス1-5までがわかる概略図」と「各プロセスでの概略図」をアコーディオンで表示する
-- 🔥Slackエラー通知が無効化された件
 #### yell
-- 🅿️ver1.1: ユーザ登録とチーム編成
-- 🅿️ver1.2: 利用者による大会情報の編集
 ### mar job_marketing(dad95a8db0)
-- 🅿️mar::cli: ikk勉強会(22b6bc3816)::キックオフ
 ### acc job_accounting(2cc25c748f)
 ### bus job_business(79803790f4)
 ### tea job_team(c126e85933)
-- zer::tea 水野くんとの契約書
-- zer::tea: 分配シートを作成する until 7/10(wed)
-- zer::tea: 稼働シートを作成する until 7/10(wed)
-- zer::tea: ７月度の「稼働と分配」の予想会議を開く（7/10頃）
 ### zmi job_zeroichi_misc(b2d17fb61c)
 - zmi: 生活習慣病予防健診の日程調整
 ## lmi job_life_misc(24d24447fe)
@@ -49,28 +39,33 @@
 - ✅市役所:: 来週の火水・木午前で調整する
 
 ## tue 9
-- 移動
-  - 峯さんたちと予定調整
-  - Keyballの持ち運び用のケースを作る
-- san
-  - ゴミデータがあるみたい。削除しておきますか？
-    - XL-Yellow
-    - https://sanesline.com/sgu_products/1/sku_products
-  - しきい値を下回る発送元倉庫があるときに、一覧に表示する仕組みが怪しい
-    - by_low_level_stock が、発送元倉庫以外の倉庫からも集めているっぽい
+- ✅san
+  - ✅mtg 片付け
+- ✅lbe
+  - ✅同時接続しているときにWebSocketが混線して、誰かの回答が見れてしまう
+  - ✅Usageを円かドルに換算する
+
+## wed 10
 - lbe
-  - 🔥同時接続しているときにWebSocketが混線して、誰かの回答が見れてしまう
-  - 🔥Usageを円かドルに換算する
+  - ✅準備
+  - 定例
+- zer
+  - Wiplusの年間契約の件 → _稼働と分配(e7e826b615)
 - yell
   - 🅿️ver1.x: 開発環境の構築
   - 🅿️ver1.0: 大会情報の作成・更新・一覧・詳細ページ
-
-## wed 10
+  - 🅿️ver1.1: ユーザ登録とチーム編成
+  - 🅿️ver1.2: 利用者による大会情報の編集
 
 ## thu 11
 - zer::bus: _ゼロイチハッカーの戦略(9e5fda640e)::話し合う
+- zer::tea 水野くんとの契約書
+- zer::tea: 分配シートを作成する until 7/10(wed)
+- zer::tea: 稼働シートを作成する until 7/10(wed)
+- zer::tea: ７月度の「稼働と分配」の予想会議を開く（7/10頃）
 
 ## fri 12
+- 🅿️mar::cli: ikk勉強会(22b6bc3816)::キックオフ::予定調整
 - 19:00 〜 22:30 まほろばー
 ## sat 13
 ## sun 14
