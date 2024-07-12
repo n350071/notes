@@ -17,7 +17,7 @@ pass = "pass_zero @#341_10"
 ## 上村さん
 ```rb
 email = "uemura@zeroichi-hacker.com"
-pass = "pass_zero @3_10 zEro" #=> zEro@4242640687
+pass = "pass_zero @4_10 zEro" #=> pass_zero @4_10 zEro
 ```
 
 ---
