@@ -13,10 +13,10 @@
 ### cli job_client(6aaf703720)
 #### wip
 - ⛔️wiplusの年間契約の件
+
 #### san
 - ✅デフォルト値の設定を仮でやっておく
-- 🟡ゴミデータの削除
-  - https://sanesline.com/sgu_products/1/sku_products
+- ✅ゴミデータの削除(https://sanesline.com/sgu_products/1/sku_products)
 - ✅拠点別在庫CSVの仕様の整理の画像を説明に貼り付ける
 - ✅実在庫の一覧画面(ヘッダーを上に貼り付ける)
 - 📌北方さんと、運用試し会をやろう（7/18の夕方以降、slack で調整する）
@@ -42,8 +42,11 @@
 ### tea job_team(c126e85933)
 ### zmi job_zeroichi_misc(b2d17fb61c)
 - zmi: 生活習慣病予防健診の日程調整
+- zmi: t350071@gmail.com などの、テスト用アカウントを作る
 ## lmi job_life_misc(24d24447fe)
 ## per job_permaculture(40f6d98db3)
+
+
 
 ---
 ## backlog
@@ -52,17 +55,8 @@
 ## schedule
 ## mon 15
 ## tue 16
-- 小さなこと
-  - ✅名刺交換のお礼メール
-    - ✅FGN
-    - ✅まほろば
-    - ✅BSP
-  - 市役所
-    - 波呂の件
-    - マイナンバー
-    - 電池を買う
-
 ## wed 17
+- FGNに連絡::ジャケットの上着の忘れ物
 ## thu 18
 ## fri 19
 - san: 契約書
