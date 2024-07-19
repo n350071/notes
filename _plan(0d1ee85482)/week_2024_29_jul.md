@@ -12,7 +12,7 @@
 ## 目標(今週)
 ### cli job_client(6aaf703720)
 #### wip
-- ⛔️wiplusの年間契約の件
+- 🔥wiplusの年間契約の件
 
 #### san
 - ✅デフォルト値の設定を仮でやっておく
@@ -26,11 +26,8 @@
 - ✅lbe: エラー通知の復活
 - ✅lbe: 「プロセス1-5までがわかる概略図」と「各プロセスでの概略図」をアコーディオンで表示する
 - ✅lbe: アメーバ経営ダッシュボードのデータの件
+- ✅lbe: slackから上村さんを抜いてもらう
 - 📌lbe: Wixの件
-- 📌lbe: ChatGPT専用画面を作り始める
-- 📌lbe: slackから上村さんを抜いてもらう
-- 📌lbe:グローバルリーダーの登録についての質問です。
-- 📌上村さんの件
 
 #### yell
 - ✅ver1.x: 開発環境の構築
@@ -38,7 +35,7 @@
 - ✅停止
 
 ### mar job_marketing(dad95a8db0)
-- 🟡mar::cli: ikk勉強会(22b6bc3816)::キックオフ::予定調整
+- ✅mar::cli: ikk勉強会(22b6bc3816)::キックオフ::予定調整
 ### acc job_accounting(2cc25c748f)
 ### bus job_business(79803790f4)
 ### tea job_team(c126e85933)
@@ -48,8 +45,6 @@
 ## lmi job_life_misc(24d24447fe)
 ## per job_permaculture(40f6d98db3)
 
-
-
 ---
 ## backlog
 
@@ -58,11 +53,13 @@
 ## mon 15
 ## tue 16
 ## wed 17
-- FGNに連絡::ジャケットの上着の忘れ物
 ## thu 18
+- ikk勉強会
+  - LbE::WIXの件を、熊本さんに相談
+- FGN
+  - ジャケットの上着の忘れ物
 ## fri 19
 - san: 契約書
-- zer::tea: ８月度の「稼働と分配」の予想会議を開く（7/20頃）
 
 ## sat 20
 ## sun 21
