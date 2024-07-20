@@ -10,9 +10,9 @@
 - オフィス環境を整える（キーボード・スタンディングデスク・ディスプレイ）
 
 ## 目標(今週)
-### cli job_client(6aaf703720)
+### cli job_client(no-link)
 #### wip
-- 🔥wiplusの年間契約の件
+- ⛔️wiplusの年間契約の件
 
 #### san
 - ✅デフォルト値の設定を仮でやっておく
@@ -34,16 +34,16 @@
 - ✅ver1.0: 大会情報の作成・更新・一覧・詳細ページ
 - ✅停止
 
-### mar job_marketing(dad95a8db0)
+### mar job_marketing(no-link)
 - ✅mar::cli: ikk勉強会(22b6bc3816)::キックオフ::予定調整
-### acc job_accounting(2cc25c748f)
-### bus job_business(79803790f4)
-### tea job_team(c126e85933)
-### zmi job_zeroichi_misc(b2d17fb61c)
+### acc job_accounting(no-link)
+### bus job_business(no-link)
+### tea job_team()
+### zmi job_zeroichi_misc(no-link)
 - zmi: 生活習慣病予防健診の日程調整
 - zmi: t350071@gmail.com などの、テスト用アカウントを作る
-## lmi job_life_misc(24d24447fe)
-## per job_permaculture(40f6d98db3)
+## lmi job_life_misc(no-link)
+## per job_permaculture(no-link)
 
 ---
 ## backlog
@@ -59,7 +59,7 @@
 - FGN
   - ジャケットの上着の忘れ物
 ## fri 19
-- san: 契約書
+
 
 ## sat 20
 ## sun 21

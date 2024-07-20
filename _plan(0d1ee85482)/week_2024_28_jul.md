@@ -11,17 +11,17 @@
 - オフィス環境を整える（動かない姿勢）（分割キーボード）
 
 ## 目標(今週)
-### cli job_client(6aaf703720)
+### cli job_client(no-link)
 #### san
 #### lbe
 #### yell
-### mar job_marketing(dad95a8db0)
-### acc job_accounting(2cc25c748f)
-### bus job_business(79803790f4)
-### tea job_team(c126e85933)
-### zmi job_zeroichi_misc(b2d17fb61c)
-## lmi job_life_misc(24d24447fe)
-## per job_permaculture(40f6d98db3)
+### mar job_marketing(no-link)
+### acc job_accounting(no-link)
+### bus job_business(no-link)
+### tea job_team()
+### zmi job_zeroichi_misc(no-link)
+## lmi job_life_misc(no-link)
+## per job_permaculture(no-link)
 
 ---
 

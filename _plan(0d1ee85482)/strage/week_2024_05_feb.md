@@ -29,7 +29,7 @@
 
 ### wed 31
 - ✅lmi: 美和に依頼中の仕事一覧を作る（ETC, 経理, その他）
-- ✅acc: 経理のしごとをまとめて依頼する job_accounting(2cc25c748f)
+- ✅acc: 経理のしごとをまとめて依頼する job_accounting(no-link)
 - ✅lbe: Azure OpenAI Service の本を読む
 
 ### thu 01

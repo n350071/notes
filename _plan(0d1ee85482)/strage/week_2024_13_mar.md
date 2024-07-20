@@ -19,7 +19,7 @@
 - ✅大堂さんに返事する＆paypay支払い
 
 ### wed 27
-- 状況を聞く: job_accounting(2cc25c748f): 経理の仕事
+- 状況を聞く: job_accounting(no-link): 経理の仕事
 ---
 - ✅zmi: FGNのネックストラップを確認する
 - ✅zmi: 名刺やりなおし

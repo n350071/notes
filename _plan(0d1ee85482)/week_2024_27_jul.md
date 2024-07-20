@@ -11,7 +11,7 @@
 - オフィス環境を整える（動かない姿勢）（分割キーボード）
 
 ## 目標(今週)
-### cli job_client(6aaf703720)
+### cli job_client(no-link)
 #### san
 - ✅san: 実在庫の一覧画面（商品マスタをパクって、数を出すだけ）
 - 🔥san: しきい値設定
@@ -26,16 +26,16 @@
 - 🅿️ver1.0: 大会情報の作成・更新・一覧・詳細ページ
 - 🅿️ver1.1: ユーザ登録とチーム編成
 - 🅿️ver1.2: 利用者による大会情報の編集
-### mar job_marketing(dad95a8db0)
+### mar job_marketing(no-link)
 - 🅿️mar::cli: ikk勉強会(22b6bc3816)::キックオフ
-### acc job_accounting(2cc25c748f)
-### bus job_business(79803790f4)
-### tea job_team(c126e85933)
+### acc job_accounting(no-link)
+### bus job_business(no-link)
+### tea job_team()
 - zer::tea 水野くんとの契約書
-### zmi job_zeroichi_misc(b2d17fb61c)
+### zmi job_zeroichi_misc(no-link)
 - zmi: 生活習慣病予防健診の日程調整
-## lmi job_life_misc(24d24447fe)
-## per job_permaculture(40f6d98db3)
+## lmi job_life_misc(no-link)
+## per job_permaculture(no-link)
 
 
 ---
