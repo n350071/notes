@@ -8,12 +8,12 @@
 - オフィス環境を整える（キーボード・スタンディングデスク・ディスプレイ）
 
 ## Time Budget(40H)
-- San: 20h 60万円
-- Lbe: 10h 30万円
+- ✅San: 20h 60万円
+- ✅Lbe: 10h 30万円
 - ✅Wip: 01h as copilot
-- Yel: 00h for waiting to start
-- Total: 31h
-- Reserved: 09h
+- ✅Yel: 00h for waiting to start
+- ✅Total: 31h
+- ✅Reserved: 09h
 
 ## Copilot-Project
 ### Wiplus::Eshub
@@ -22,6 +22,7 @@
 ## Side-Project
 ### iik勉強会
 - 🟡顧客を決める
+- ⛔️ペルソナ設定の日時を決める
 
 ### ホームページをリニューアルしたい(887b3818c7)
 - ホームページに関する本を読む
@@ -32,13 +33,20 @@
 - 勝てる「ホームページ」の作り方
 
 ## Micro-Tasks
-- 🟡Client
-  - ⛔️Wiplus::年間契約
+- ✅Client
+  - ✅Wiplus::年間契約
     - ✅契約書
-    - ⛔️支払い日(7/31, 1/31)
+    - ✅支払い日(7/31, 1/31)
+    - ✅請求書
   - ✅Sanesline::契約書
 - ✅佐賀スマート
-  - 九州DX未来会議で、会いましょうと、連絡しておく
+  - ✅九州DX未来会議で、会いましょうと、連絡しておく
+- 🟡Team::上村
+  - ✅ 請求書の額の変更連絡(until: 7/24, uemura) 6月は0万円で出し直し
+  - ⛔️ 上村さんにMacと本を売る(miwa: 売買契約書)
+  - ⛔️ 上村さんのGoogle Account 削除(until: 7/31)
+  - ⛔️ Macの初期化
+- 📌Team::KPT
 - 🅿️ゼロイチハッカー::Backoffice
   - 🅿️生活習慣病予防健診の日程調整
   - 🅿️t350071@gmail.com などの、テスト用アカウントを作る
@@ -46,10 +54,12 @@
 - 🅿️カノンさん
   - 🅿️LLM/Azureの経験がわかる履歴書
 
-## Waiting-Tasks
-- ⛔️ 請求書の額の変更連絡(until: 7/24, uemura) 6月は0万円で出し直し
-- ⛔️ 上村さんにMacと本を売る(miwa: 売買契約書)
-- ⛔️ 上村さんのGoogle Account 削除(until: 7/31)
+## Recurring Tasks
+- タスク整理（随時）
+- 翌週のタスク整理（金曜日）
+  - あとは、ノートだけだな
+- 契約書の確認（20日頃）
+- 請求書の送付（月末）
 
 ## Deadline Tasks
 ## mon 22
