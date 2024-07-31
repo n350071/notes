@@ -31,7 +31,8 @@
 - 🟡勝てる「ホームページ」の作り方::読む
 
 ## Micro-Tasks
-- ✅Client
+- 🟡Client
+  - Yell::８月ないよね？確認
 - 🟡Team::上村
   - 🟡 上村さんのGoogle Account 削除(until: 7/31)
   - ⛔️ 上村さんにMacと本を売る(miwa: 売買契約書)
