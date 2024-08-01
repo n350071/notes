@@ -31,11 +31,11 @@
 - 🟡勝てる「ホームページ」の作り方::読む
 
 ## Micro-Tasks
-- 🟡Client
-  - Yell::８月ないよね？確認
-- 🟡Team::上村
-  - 🟡 上村さんのGoogle Account 削除(until: 7/31)
-  - ⛔️ 上村さんにMacと本を売る(miwa: 売買契約書)
+- ✅Client
+  - ✅Yell::８月ないよね？確認
+- ⛔️Team::上村
+  - ✅ 上村さんのGoogle Account 削除(until: 7/31)
+  - ⛔️ 上村さんにMacと本を売る(miwa: 売買契約書 until: 8/2)
   - ⛔️ Macの初期化
 - 📌Team::KPT
 - 🅿️ゼロイチハッカー::Backoffice
@@ -49,8 +49,8 @@
 - 契約書の確認（20日頃）
 - 請求書の依頼（20日頃）
 - 請求書の送付（29, 30, 31日）
-  - LbE
-  - Sanesline
+  - ✅LbE
+  - ✅Sanesline
 
 ## schedule
 ## mon 29
