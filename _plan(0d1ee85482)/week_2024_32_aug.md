@@ -15,11 +15,25 @@
 - Total: 31h
 - Reserved: 09h
 
+
+## Main-Project
+### LbE
+- 🟡IP制限 https://lbejzeroichi.kibe.la/notes/431
+- ✅MFA https://lbejzeroichi.kibe.la/notes/433
+- history countの実装
+- 運用保守契約について水野くんと検討する
+- 機能一覧を作成し、定例会に利用する
+### Sanesline
+- セット商品とSKU商品のCSVインポート
+- セット商品へのASINなどのCSV登録
+- モールのリンクが終わったら、同期の自動化に進む。
+- 機能一覧を作成し、定例会に利用する
+
 ## Copilot-Project
 ### Wiplus::Eshub
 ## Side-Project
 ### iik勉強会
-- 🟡エレベーターピッチを決める
+- ✅エレベーターピッチを決める
 
 ### ホームページをリニューアルしたい(887b3818c7)
 - 🟡ホームページに関する本を読む
@@ -35,19 +49,20 @@
 - ⛔️Team::上村
   - ✅ 上村さんのGoogle Account 削除(until: 7/31)
   - ✅ 上村さんにMacと本を売る(GMOサインで送信する)
-  - ⛔️ Macの初期化を一緒におこなる at DXアンバサダー会議
+  - ⛔️ Macの初期化を一緒におこなる at 8/28 Wed
 - 📌Team::KPT
 - 🟡ゼロイチハッカー::Backoffice
-  - ⛔️生活習慣病予防健診の日程調整
   - 🔥t350071@gmail.com などの、テスト用アカウントを作る
   - 🟡freeeに品目設定を行う
+- 弁護士ドットコムの解約 until 9/20
+- Instagram::Angi
 
 ## Recurring Tasks
-- 🟡タスク整理（随時）
-- 🟡翌週のタスク整理（金曜日）
-- 🅿️契約書の確認（20日頃）
-- 🅿️請求書の依頼（20日頃）
-- 🅿️請求書の送付（29, 30, 31日）
+- ✅翌週のタスク整理（金曜日）
+- ✅契約書の確認（20日頃）
+- 🟡請求書の依頼（20日頃）
+  - Sanesline
+- ⛔️請求書の送付（29, 30, 31日）
 
 ## schedule
 ## mon 5
