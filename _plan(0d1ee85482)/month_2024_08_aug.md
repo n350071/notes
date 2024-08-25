@@ -51,9 +51,9 @@ month_2024_08_aug
 - ⛔️弁護士ドットコムの解約 until 9/20
 
 ## Private
-- タスク整理(task, パーマカルチャ)
-- Instagram::Angiに返事する
-- 土日の作業予定
+- 🔥タスク整理(task, パーマカルチャ)
+- 🔥Instagram::Angiに返事する
+- 🔥土日の作業予定
 
 
 ## Recurring Tasks
