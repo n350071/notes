@@ -47,7 +47,7 @@ month_2024_08_aug
 - 🔥Amazonの読書リストを整理する
 
 ## Micro-Tasks
-- ⛔️ Macの初期化を一緒におこなる at 8/28 Wed
+- ⛔️Macの初期化を一緒におこなる at 8/28 Wed
 - ⛔️弁護士ドットコムの解約 until 9/20
 
 ## Private
