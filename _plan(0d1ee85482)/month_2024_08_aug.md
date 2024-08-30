@@ -19,17 +19,15 @@ month_2024_08_aug
 
 ## Main-Project
 ### LbE
-#### 8/21-
-- ✅IP制限 https://lbejzeroichi.kibe.la/notes/431
-- ✅MFA https://lbejzeroichi.kibe.la/notes/433
-- ✅history countの実装
-- ✅運用保守契約について水野くんと検討する
 #### 8/28-
-- ⛔️機能一覧を作成し、定例会に利用する
+- MoneyForwardの設定を行い、手順書を更新する
 - LbE辞書の利用(2週間ほど)
+- ⛔️機能一覧を作成し、定例会に利用する？
 ### Sanesline
 #### 8/20-30
 - ✅セット商品とSKU商品のCSVインポート
+- ⛔️【1】プロジェクトの停止・再開について
+- 定例会の準備（定例ではなく、９月の過ごし方にも影響するので、しっかり準備する）
 - 🟡セット商品へのASINなどのCSV登録
 
 ## Side-Project
