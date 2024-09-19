@@ -21,8 +21,11 @@ month_2024_09_sep
 ## Main-Project
 ### LbE
 - 🟡LbE辞書の利用(2週間ほど)
-- 🟡10月~3月の契約書を作成し、確認する
+- ⛔️10月~3月の契約書を作成し、確認する
 - 🟡10/8wedの予定変更依頼
+- -謝礼０の人対応
+  - https://lbejzeroichi.kibe.la/notes/465
+- Lbe辞書のアップグレード
 
 ### Sanesline
 
@@ -40,7 +43,6 @@ month_2024_09_sep
 ### 週１冊の読書週間（仕事に関係ないものでも可能）
 
 ## Micro-Tasks
-- 🔥弁護士ドットコムの解約 until 9/20
 - SW関門今井さん
 
 ## Recurring Tasks
