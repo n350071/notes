@@ -21,8 +21,7 @@ month_2024_09_sep
 ## Main-Project
 ### LbE
 - ⛔️10月~3月の契約書を作成し、確認する
-- 謝礼０の人対応
-  - https://lbejzeroichi.kibe.la/notes/465
+- ✅謝礼０の人対応
 - Lbe辞書のアップグレード(textareaにするやつのみ)
 - モード設定
 
