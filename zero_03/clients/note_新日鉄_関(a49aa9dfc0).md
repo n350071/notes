@@ -1,6 +1,9 @@
 note_日本製鉄_関(a49aa9dfc0)
 ---
 
+## 続き
+パレット事業(fcfddf06f6)
+
 ## 2024-11-07
 - 進捗は、人事役員のところで、止まっている（つまり、どういうこと？）
 - マーケティングをやっているうちに、大口顧客
@@ -31,7 +34,6 @@ note_日本製鉄_関(a49aa9dfc0)
 - ビデオを見る（改善してほしい）
   - Pallet Optimize Software
   - タイプA, Total, Basic Return Delay, Basic Return Rate, 使用予定の入力
-  -
 
 
 
