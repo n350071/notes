@@ -4,3 +4,7 @@
 # 機密情報などを記載したファイルを無視します
 **/*secrets*/**
 **/*_secret_*.*
+
+
+# copilot用のuserInstructionFilesを無視します
+.github/copilot-instructions.md
