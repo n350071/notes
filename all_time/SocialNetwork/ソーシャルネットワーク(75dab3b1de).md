@@ -32,5 +32,5 @@
 - 助けてくれる、親身になってくれる
 
 ## 忘備録３
-CRM(Customer Relationship Management)を個人で運用するイメージでもいいかもしれない
-
+- CRM(Customer Relationship Management)を個人で運用するイメージでもいいかもしれない
+- MVPは、ドリームノートかもしれない！
