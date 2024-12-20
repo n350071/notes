@@ -11,14 +11,20 @@ month_2024_10_oct
 
 ## 12/19 Thursday
 - 🟡丸太::製材
-- 🟡Friendsノートを自動コミットする
-- 🟡Friendsノートを再進化する
+- ✅Friendsノートを自動コミットする
 
 ## 12/20 Friday
+- 🟡Friendsノートの内容を更新する（人の情報などを書く）
+- 🟡LbE::Csv出力機能のPRマージ
+- 🟡LbE::Csv出力機能の設計(miro, 古賀さんと話せるレベルに)
 - Wip::Meeting
-- LbE::Csv出力機能の設計
 - Zer::KPT
 - パレット関さん::Meeting
+- バイクの鍵のヒモ
+- トラック保険
+
+## 12/22 Sunday
+- AoE4::steamでセールになっている？
 
 ## 集中していること
 ### お仕事
