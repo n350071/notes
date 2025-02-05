@@ -31,7 +31,10 @@ https://shirogane-lab.net/items/64b8ed191435c1002bc4cd30
 https://shop.yushakobo.jp/products/5358?_pos=9&_fid=90525edad&_ss=c
 
 ### 組み立て
+#### 61
 https://github.com/Yowkees/keyball/blob/main/keyball61/doc/rev1/buildguide_jp.md
+#### 39
+https://github.com/Yowkees/keyball/blob/main/keyball39/doc/rev1/buildguide_jp.md
 
 ### 周辺機器
 - テンティング
