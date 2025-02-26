@@ -4,10 +4,10 @@
 - 🟡ミートアップに反応した人を誘う
 - 🟠mac osXのアップグレード
 - ⛔️AIを使って、福ふくの里の入荷情報を取得するサービスを作りたい（プロダクションレベルのものを）
+- 🟠高城剛の白本・黒本を読む
 
 ### 雄陽(1efba4dd75)
 - 🟡マイコン入門::質問/キャンセル
-- 🟡micro_bitの設定をする
 
 ### fj
 
@@ -19,7 +19,7 @@
 - 🟠納車日の連絡待ち
 
 ### まっち会
-- 🟠ピザの準備・練習をしておく
+- 🟠ピザの準備・練習をしておく(ピザ窯を作ろう)
 
 ### 🟡San
 - ⛔️作業ログを受ける
@@ -29,7 +29,7 @@
 - 🟠ishigaki@zeroichi-hacker.com のパスワードを変更する
 - 🔸フロントをReactにリファクタリングしておきたいな(2月末の瀬戸さんの反応を見て続きそうか？を水野くんが判断する)
 
-### 🟡LbE
+### ✅LbE
 - https://lbejzeroichi.kibe.la/notes/991
 
 ### 🟡建築(1605385b3f)
@@ -67,7 +67,15 @@
   - その実績を引っ提げて、講演を行う
 
 
-### ⛔️研究開発
+### 🟡研究開発
+- 🟠Cline (PC操作してくれる) を試す
+- 🟡Cursor を試す
+  - https://note.com/shuzon__/n/n0e898b500e9a
+  - https://zenn.dev/jessicazu/articles/7a46a7e15c153f
+- 🟡Cornelkasten を試す
+  - https://posfie.com/@taimport/p/Hv0qNZz
+- 🟡〜に技術記事を担当してもらう(mizti)を試す
+  - https://zenn.dev/mizchi/articles/auto-mizchi-writer
 - ⛔️low-codeを試してみる(n8n, Google App Sheet, ...etc)
 - ⛔️ゼロイチハッカーと似た価値観を持つエンジニアを探す旅に出つつ（勉強会を渡り歩く）、発信をしていく（水野くん監修）
 
