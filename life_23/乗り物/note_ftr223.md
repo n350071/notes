@@ -17,6 +17,11 @@ https://minkara.carview.co.jp/userid/129836/car/2756722/5976094/note.aspx
 
 ### サイドミラー交換
 
+### バッテリー
+- YUASA
+  - YTX5L-BS
+  - 12V 4.2Ah
+
 
 ## 法人所有にする方法について
 ### 250cc手続き
