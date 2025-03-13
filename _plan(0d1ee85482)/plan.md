@@ -1,30 +1,42 @@
 # Plan
 ## List
 ### inbox
-- 🟠mac osXのアップグレード
-- 🟠高城剛の白本・黒本を読む
+- 🟡高城剛の白本・黒本を読んだ感想を、高田家のLINEと、まどかに連絡する
+- 🟡バイクのバッテリーを交換する
+- 🟡一本歯下駄を浪切さんに送る
+- 🟡肘掛けを作成する
+- ✅糸島市１００人カイギを、絵里さんに伝える
+- 🟡糸島市１００人カイギを、カマドに連絡する
+- 🟡mac osXのアップグレード
 
 ### 雄陽(1efba4dd75)
 ### fj
 ### 車
-- 🟡車庫のスロープ作成
-- 🟡パスワード設定
+- ⛔️車庫のスロープ作成
 
 ### 🟠San
-- 🟡瀬戸さん納期変更報告
-- 🟡瀬戸さんPO相談の日程打診
-- ⛔️水野くんが作成する作業ログを確認する
+- ✅https://sanes-hacker.kibe.la/notes/265
+- ✅モールコードのインポート機能
+- ✅安田さん瀬戸さん納期変更連絡
+- 🟡リリース作業
+- 🟠瀬戸さんPO相談の日程打診(https://zeroichi-hacker.kibe.la/notes/6258)
 - 🟠ishigaki@zeroichi-hacker.com のパスワードを変更する
+- ⛔️水野くんが作成する作業ログを確認する
 
-### LbE
-https://lbejzeroichi.kibe.la/notes/1057
+### ⛔️LbE
+- ⛔️https://lbejzeroichi.kibe.la/notes/1057
+- ⛔️https://github.com/zeroichi-hacker/lbe/pull/451
+  - rename_column :contribution_ratio_old 変更する
+  - 本番環境をdumpした内容でテストする
+- ⛔️運用保守プラン
 
 ### 🟠建築(1605385b3f)
 
 ### 🟠戦略的マーケティング(888a7cacab)(2/19)
-- 🟠Facebookへの投稿(毎週水曜日)(e6878aaf65)
+- 🟡Facebookへの投稿(毎週水曜日)(e6878aaf65)
 - 🟡パーカーを作成する
-  - https://apparel.raksul.com/tops/sweat/products/2087?psi=114498&addonPsi&prefectureId&optionIds&quantities=49570-1,49571-0,49572-0,49573-0,49574-0&designVersion&id=2087&hasPackage=false
+  - 12oz: https://apparel.raksul.com/tops/sweat/products/2087
+  - 10oz: https://apparel.raksul.com/tops/sweat/products/2065
 - 🟠いい感じの手書きフォントで「石垣」を書いて、再現できるようにする
 ~~💤必要が生じるまでは、マーケティングをしない方針だが、機会が訪れたのでやってみる~~
 - 🟠ここまで学習したことを元に、少しだけ取り掛かる
@@ -47,7 +59,7 @@ https://lbejzeroichi.kibe.la/notes/1057
 - ✅バーチャルオフィスへの移転を検討する→自宅にする
 - ✅_移転TODOを、スケジュール化する
 - ✅FGN面談(2/21)
-- 🟠美和の活動を確認する(3/10)
+- 🟡美和の活動を確認する(3/10)
 - 🟠転送届を出す(美和に依頼)
 - 🟠FGNに備品を返却する
 - ⛔️ホームページ・名刺などの住所を修正する
