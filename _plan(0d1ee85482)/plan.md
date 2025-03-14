@@ -1,11 +1,11 @@
 # Plan
 ## List
 ### inbox
-- 🟡高城剛の白本・黒本を読んだ感想を、高田家のLINEと、まどかに連絡する
-- 🟡バイクのバッテリーを交換する
-- 🟡一本歯下駄を浪切さんに送る
-- 🟡肘掛けを作成する
+- ✅高城剛の白本・黒本を読んだ感想を、高田家のLINEと、まどかに連絡する
+- ✅一本歯下駄を浪切さんに送る
 - ✅糸島市１００人カイギを、絵里さんに伝える
+- ✅バイクのバッテリーを交換する
+- 🟡肘掛けを作成する
 - 🟡糸島市１００人カイギを、カマドに連絡する
 - 🟡mac osXのアップグレード
 
@@ -18,7 +18,7 @@
 - ✅https://sanes-hacker.kibe.la/notes/265
 - ✅モールコードのインポート機能
 - ✅安田さん瀬戸さん納期変更連絡
-- 🟡リリース作業
+- ✅リリース作業
 - 🟠瀬戸さんPO相談の日程打診(https://zeroichi-hacker.kibe.la/notes/6258)
 - 🟠ishigaki@zeroichi-hacker.com のパスワードを変更する
 - ⛔️水野くんが作成する作業ログを確認する
@@ -35,8 +35,8 @@
 ### 🟠戦略的マーケティング(888a7cacab)(2/19)
 - 🟡Facebookへの投稿(毎週水曜日)(e6878aaf65)
 - 🟡パーカーを作成する
-  - 12oz: https://apparel.raksul.com/tops/sweat/products/2087
-  - 10oz: https://apparel.raksul.com/tops/sweat/products/2065
+  - 12oz_S: https://apparel.raksul.com/tops/sweat/products/2087
+  - 10oz_M: https://apparel.raksul.com/tops/sweat/products/2065
 - 🟠いい感じの手書きフォントで「石垣」を書いて、再現できるようにする
 ~~💤必要が生じるまでは、マーケティングをしない方針だが、機会が訪れたのでやってみる~~
 - 🟠ここまで学習したことを元に、少しだけ取り掛かる
