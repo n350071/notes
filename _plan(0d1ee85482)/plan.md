@@ -8,27 +8,23 @@
 - 🟡肘掛けを作成する
 - 🟡糸島市１００人カイギを、カマドに連絡する
 - 🟡mac osXのアップグレード
+- branch コマンドをgitconfigに移す
+- save コマンドをgitconfigに移す
+
 
 ### 雄陽(1efba4dd75)
 ### fj
-### 車
-- ⛔️車庫のスロープ作成
 
-### 🟠San
-- ✅https://sanes-hacker.kibe.la/notes/265
-- ✅モールコードのインポート機能
-- ✅安田さん瀬戸さん納期変更連絡
-- ✅リリース作業
-- 🟠瀬戸さんPO相談の日程打診(https://zeroichi-hacker.kibe.la/notes/6258)
-- 🟠ishigaki@zeroichi-hacker.com のパスワードを変更する
+### 🟡San
+- 🟡商品の自動同期をネクストエンジンとかにまで拡げる
+- 🟡ishigaki@zeroichi-hacker.com のパスワードを変更する
 - ⛔️水野くんが作成する作業ログを確認する
 
-### ⛔️LbE
-- ⛔️https://lbejzeroichi.kibe.la/notes/1057
-- ⛔️https://github.com/zeroichi-hacker/lbe/pull/451
+### 🟡LbE
+- 🟡https://github.com/zeroichi-hacker/lbe/pull/451
   - rename_column :contribution_ratio_old 変更する
   - 本番環境をdumpした内容でテストする
-- ⛔️運用保守プラン
+- 🟡実験
 
 ### 🟠建築(1605385b3f)
 
