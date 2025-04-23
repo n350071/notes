@@ -135,7 +135,30 @@
 
 
 
-
 ```
 
+## 例
+### ログ出力
+Rails.logger.info("Leaders::VisaInfoUpdateNotificationService#run")
+
+### 検索
+```json
+{ $.message = "Leaders::VisaInfoUpdateNotificationService#run" }
+```
+
+### 結果
+```json
+{
+    "host": "020a7d9f7af0",
+    "application": "Semantic Logger",
+    "environment": "production",
+    "timestamp": "2025-04-22T00:00:00.074111Z",
+    "level": "info",
+    "level_index": 2,
+    "pid": 17,
+    "thread": "176300",
+    "name": "Rails",
+    "message": "Leaders::VisaInfoUpdateNotificationService#run"
+}
+```
 
