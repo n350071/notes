@@ -1,7 +1,4 @@
 # Plan
-## 様々なタスク
-- kiwiのkibelaをエクスポートしておく
-
 ## 情報ソースの構築急ぐ
 https://cloudonair.withgoogle.com/handson-2025
 https://zenn.dev/hackathons/google-cloud-japan-ai-hackathon-vol2?tab=overview
