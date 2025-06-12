@@ -132,9 +132,6 @@
 { ($.message = "*ProgramEmployeeの保存に失敗しました。*") && ($.message != "*Employee must exist*") }
 { $.message = "*MoneyForward API Error*" }
 { $.message = "*AiFeatures::ProgramInstruction.create*" }
-
-
-
 ```
 
 ## 例
@@ -160,5 +157,46 @@ Rails.logger.info("Leaders::VisaInfoUpdateNotificationService#run")
     "name": "Rails",
     "message": "Leaders::VisaInfoUpdateNotificationService#run"
 }
+```
+
+
+---
+
+
+## 例
+### ログ出力
+```ruby
+_message = "CSV import error: #{e}"
+Rails.logger.error(_message)
+```
+
+### 検索
+```json
+{ ($.level = "error") && ($.message = "*CSV import error:*") }
+```
+
+### 結果
+```json
+{
+    "host": "020a7d9f7af0",
+    "application": "Semantic Logger",
+    "environment": "production",
+    "timestamp": "2025-06-11T07:19:27.216957Z",
+    "level": "error",
+    "level_index": 4,
+    "pid": 1,
+    "thread": "puma srv tp 005",
+    "file": "/app/app/models/domains/leaders/import_csv.rb",
+    "line": 123,
+    "named_tags": {
+        "request_id": "fcd9fd03-9b83-4d1e-8396-5678d35059b9",
+        "ip": "114.164.197.50",
+        "referer": "https://lbejapan.net/staff/leaders"
+    },
+    "name": "Rails",
+    "message": "CSV import error: Validation failed: Branch name can't be blank"
+}
+```
+
 ```
 
