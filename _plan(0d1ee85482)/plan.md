@@ -12,15 +12,20 @@
   - https://originalprint.jp/mark-deco
 - ✅トラックのバッテリー充電（6時間程度にしておくこと）
 - ⛔️トラックのブレーキペダルを直す
+- ⛔️草刈り機のメンテナンス（燃料フィルター、エアフィルターの交換）
+- ⛔️草刈り
 - 🔥A2Aハンズオン準備::MCPサーバの理解
-- 🔥A2Aハンズオン準備::Python環境の準備
-- 🔥(土曜)A2Aハンズオン
-- Chrome Extension のあとかたづけ
+  - https://www.youtube.com/live/Oxn4uE9WPbg?si=3MCOgKYHkfoZD2WQ&t=1671
+- ✅A2Aハンズオン準備::Python環境の準備
+- ⛔️(土曜)A2Aハンズオン
+- ⛔️Chrome Extension のあとかたづけ
   - https://chrome.google.com/webstore/devconsole/addf3469-2a4b-4715-aba5-675bd217f9c6
   - https://github.com/n350071/chrome-extension-yt-shorts-blocker
+- 🟡Gemini CLIについて、有効な使い方を学びたい
+- 🟡ICLについて学ぶ
 - 🟡土曜日学校のパンフレット作成（哲学と実践の家）
 - 🟡安丸さんに、糸島市商工会の話を聞く日程を調整する
-- 🟡珈琲焙煎の販売金額の確定・価格ラベルの貼り付け
+- 🟡珈琲焙煎の販売金額の確定・価格ラベルの貼り付け()
 - 🟡石垣の森BBQ企画(f9d9c8d785)
 - 🟡ポータブルスキル・専門スキルで、自分の市場価値を測ってみよう
 - 🟡ホームページ::Wiplusを掲載確認
