@@ -1,0 +1,208 @@
+{
+  "IC": [
+    {
+      "name": "555",
+      "description": "タイマーIC。発振や時間制御に用いられ、電子サイコロの点灯タイミングなどに使用される。",
+      "url": "https://akizukidenshi.com/catalog/g/g114051/",
+      "quantity": 1
+    },
+    {
+      "name": "7446",
+      "description": "7セグメントLEDドライバIC。カウンタ出力を見やすい数値に変換して表示する。",
+      "url": "https://akizukidenshi.com/catalog/g/g114057/",
+      "quantity": 1
+    },
+    {
+      "name": "7490",
+      "description": "デジタルカウンタIC。タイミング信号を数えて状態を切り替える。",
+      "url": "https://akizukidenshi.com/catalog/g/g109757/",
+      "quantity": 1
+    }
+  ],
+  "ICソケット": [
+    {
+      "pin": "8P",
+      "description": "8ピンのICを基板に取り付けるためのソケット。ICの交換や保護に便利。",
+      "url": "https://akizukidenshi.com/catalog/g/g100017/",
+      "quantity": 1
+    },
+    {
+      "pin": "14P",
+      "description": "14ピンIC用ソケット。挿抜しやすく、はんだ不要でメンテ性が高い。",
+      "url": "https://akizukidenshi.com/catalog/g/g100006/",
+      "quantity": 1
+    },
+    {
+      "pin": "16P",
+      "description": "16ピンIC用ソケット。複雑な回路の実装時に重宝される。",
+      "url": "https://akizukidenshi.com/catalog/g/g100007/",
+      "quantity": 1
+    }
+  ],
+  "トランジスタ": [
+    {
+      "model": "2SA1015",
+      "description": "PNP型小信号トランジスタ。LEDや信号のスイッチング制御に使われる。",
+      "url": "https://akizukidenshi.com/catalog/g/g117091/",
+      "quantity": 7
+    }
+  ],
+  "抵抗": [
+    {
+      "resistance": "1kΩ",
+      "tolerance": "1/4W",
+      "color_code": "茶黒赤金",
+      "description": "電流制限やプルアップ用途で使われる汎用抵抗。",
+      "url": "https://akizukidenshi.com/catalog/g/g125102/",
+      "quantity": 1
+    },
+    {
+      "resistance": "470Ω",
+      "tolerance": "1/4W",
+      "color_code": "黄紫茶金",
+      "description": "LEDの電流制限など、低電流制御に使われる。",
+      "url": "https://akizukidenshi.com/catalog/g/g125471/",
+      "quantity": 1
+    },
+    {
+      "resistance": "130Ω",
+      "tolerance": "1/4W",
+      "color_code": "茶橙茶金",
+      "description": "比較的低い抵抗値で、LED制御やバイアス用途に使用される。",
+      "url": "https://akizukidenshi.com/catalog/g/g109123/",
+      "quantity": 21
+    }
+  ],
+  "LED": [
+    {
+      "color": "青",
+      "description": "LED。電子サイコロの目の表示に使用。",
+      "url": "https://akizukidenshi.com/catalog/g/g117011/",
+      "quantity": 21
+    }
+  ],
+  "コンデンサ": [
+    {
+      "type": "セラミックコンデンサ",
+      "capacitance": "0.1μF",
+      "code": "104",
+      "description": "高周波ノイズの除去や安定動作のためのバイパス用途に用いられる。",
+      "url": "https://akizukidenshi.com/catalog/g/g104064/",
+      "quantity": 1
+    },
+    {
+      "type": "電解コンデンサ",
+      "capacitance": "10μF",
+      "voltage": "16V",
+      "description": "電源平滑やタイミング回路に使用される、極性付きコンデンサ。",
+      "url": "https://akizukidenshi.com/catalog/g/g110590/",
+      "quantity": 1
+    }
+  ],
+  "スイッチ": [
+    {
+      "type": "トグルスイッチ",
+      "size": "小型",
+      "description": "オン・オフの切り替えを行うレバースイッチ。主電源の切り替えなどに使用。",
+      "url": "https://akizukidenshi.com/catalog/g/g100300/",
+      "quantity": 1
+    },
+    {
+      "type": "押しボタンスイッチ",
+      "size": "小型",
+      "description": "一時的な動作（ダイスのロール）をトリガーするためのスイッチ。",
+      "url": "https://akizukidenshi.com/catalog/g/g108213/",
+      "quantity": 1
+    }
+  ],
+  "基板とネジ・スペーサー": [
+    {
+      "item": "ユニバーサル基板",
+      "size": "30×25穴",
+      "description": "配線自由な汎用プリント基板。部品の試作や組み立てに使用。",
+      "url": "https://akizukidenshi.com/catalog/g/g103229/",
+      "quantity": 1
+    },
+    {
+      "item": "ナベねじ",
+      "size": "M3×30mm",
+      "description": "基板やアクリル板の固定に使用される長めのネジ。",
+      "url": "",
+      "quantity": 4
+    },
+    {
+      "item": "ナベねじ",
+      "size": "M3×5mm",
+      "description": "スペーサー固定など、短距離固定に使うネジ。",
+      "url": "https://akizukidenshi.com/catalog/g/g110358/",
+      "quantity": 4
+    },
+    {
+      "item": "スペーサー",
+      "size": "M3×20mm",
+      "thread": "ねじなし",
+      "description": "基板とケースの間に空間を作る絶縁用部品。",
+      "url": "",
+      "quantity": 4
+    },
+    {
+      "item": "スペーサー",
+      "size": "M3×20mm",
+      "thread": "両メスねじ",
+      "description": "両側からネジ止め可能な中空スペーサー。基板の中間固定に便利。",
+      "url": "",
+      "quantity": 4
+    }
+  ],
+  "電源": [
+    {
+      "item": "電池ボックス＆電池スナップ",
+      "type": "単三×4本",
+      "description": "単三電池4本用ホルダーと9Vスナップ端子。持ち運び電源に最適。",
+      "url": "https://akizukidenshi.com/catalog/g/g101972/",
+      "quantity": 1
+    },
+    {
+      "item": "単三電池",
+      "description": "汎用の1.5V乾電池。機器に電源を供給する。",
+      "url": "https://akizukidenshi.com/catalog/g/g103256/",
+      "quantity": 4
+    }
+  ],
+  "その他": [
+    {
+      "item": "ゴム足",
+      "size": "小型",
+      "description": "ケースの底面に貼り付けて滑り止めや衝撃吸収に使用。",
+      "url": "https://akizukidenshi.com/catalog/g/g116317/",
+      "quantity": 4
+    },
+    {
+      "item": "アクリル板",
+      "note": "図参照",
+      "description": "透明な保護パネルまたは外装パーツ。",
+      "url": "https://akizukidenshi.com/catalog/g/g109853/"
+    },
+    {
+      "item": "両面テープ",
+      "description": "部品やパネルの仮止めや固定用テープ。",
+      "url": ""
+    },
+    {
+      "item": "ビニールコード",
+      "description": "電源や信号の配線に使われる柔軟な導線。",
+      "url": "https://akizukidenshi.com/catalog/g/g118192/"
+    },
+    {
+      "item": "スズメッキ線",
+      "description": "ジャンパ線や接続線として使用される錫メッキ銅線。",
+      "url": "https://akizukidenshi.com/catalog/g/g114232/"
+    },
+    {
+      "item": "ハンダ",
+      "note": "少々",
+      "description": "電子部品のはんだ付けに使用。鉛フリータイプも推奨。",
+      "url": "https://akizukidenshi.com/catalog/g/g109557/"
+    }
+  ]
+}
