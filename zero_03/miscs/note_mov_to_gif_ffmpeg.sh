@@ -7,3 +7,4 @@ ffmpeg -i ~/ScreenShot/x.mov -r 10 ~/ScreenShot/x.gif
 
 
 ffmpeg -i ~/ScreenShot/hoge.mov -r 10 ~/ScreenShot/hoge.gif
+
